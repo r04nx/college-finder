@@ -1,0 +1,2142 @@
+Choice Code,Course Name,College Information,1,GSC_Column,GST_Column,GNTA_Column,GNTB_Column,GNTC_Column,GNTD_Column,GOBC_Column,LOPEN_Column,LSC_Column,LST_Column,LNTA_Column,LNTB_Column,LNTC_Column,LOBC_Column,DEF_O_Column,EWS_Column,LNTD_Column,PWD_O_Column,MI_Column
+100219110,Civil Engineering,"Government College of Engineering, Amravati (Government Autonomous)","GOPEN 393
+(93.32%)","GSC 1565
+(90.00%)",,,"GNTB 2097
+(88.95%)",,,"GOBC 431
+(93.11%)","LOPEN 722
+(92.00%)",,"LST 7383
+(83.11%)",,,,"LOBC 960
+(91.26%)",,"EWS 1984
+(89.16%)",,,
+100224210,Computer Science and Engineering,"Government College of Engineering, Amravati (Government Autonomous)","GOPEN 392
+(93.32%)","GSC 1209
+(90.68%)","GST 2149
+(88.86%)",,"GNTB 3037
+(87.53%)",,,"GOBC 490
+(92.80%)","LOPEN 95
+(95.84%)",,,,,,"LOBC 165
+(95.00%)",,"EWS 733
+(91.95%)",,,
+100224610,Information Technology,"Government College of Engineering, Amravati (Government Autonomous)","GOPEN 962
+(91.26%)","GSC 1367
+(90.37%)",,"GNTA 4993
+(85.26%)",,,,"GOBC 1005
+(91.18%)","LOPEN 749
+(91.89%)","LSC 4249
+(86.05%)",,,,,"LOBC 846
+(91.63%)",,"EWS 1239
+(90.63%)",,,
+100229310,Electrical Engineering,"Government College of Engineering, Amravati (Government Autonomous)","GOPEN 917
+(91.39%)","GSC 2860
+(87.79%)",,,,,,"GOBC 983
+(91.21%)",,,"LST 6580
+(83.83%)",,,,"LOBC 1436
+(90.22%)",,"EWS 2758
+(87.94%)",,,
+100237210,Electronics and Telecommunication Engg,"Government College of Engineering, Amravati (Government Autonomous)","GOPEN 3544
+(86.84%)","GSC 7452
+(83.06%)",,,,"GNTC 13767
+(78.82%)",,"GOBC 4263
+(86.00%)","LOPEN 3087
+(87.47%)",,"LST 29608
+(71.12%)","LNTA 18989
+(76.06%)",,,"LOBC 3490
+(86.89%)",,"EWS 3717
+(86.65%)",,"PWD-O 29743
+(71.06%)",
+100246610,Instrumentation Engineering,"Government College of Engineering, Amravati (Government Autonomous)","GOPEN 4975
+(85.28%)",,,,,,,"GOBC 6883
+(83.54%)","LOPEN 11924
+(79.94%)",,,,,,,,"EWS 9332
+(81.66%)",,,
+100261210,Mechanical Engineering,"Government College of Engineering, Amravati (Government Autonomous)","GOPEN 2204
+(88.77%)","GSC 3050
+(87.53%)","GST 8033
+(82.63%)",,,,,"GOBC 2503
+(88.32%)","LOPEN 4364
+(85.90%)",,,,,LNTC ,"LOBC 12477
+(79.59%)",,"EWS 5243
+(85.03%)",,,
+100550310,Food Technology,"Sant Gadge Baba Amravati University,Amravati (University Department)","GOPEN 25622
+(73.05%)",,,,,,,,"LOPEN 4312
+(86.00%)",,,,,,"LOBC 34268
+(68.60%)",,,,,
+100551710,Oil and Paints Technology,"Sant Gadge Baba Amravati University,Amravati (University Department)","GOPEN 22746
+(74.35%)",,,,,,,"GOBC 32486
+(69.65%)","LOPEN 38370
+(65.39%)",,,,,,LOBC ,,"EWS 18741
+(76.17%)",,,
+100552410,Paper and Pulp Technology,"Sant Gadge Baba Amravati University,Amravati (University Department)","GOPEN 39869
+(63.58%)",,,,,,,,,,,,,,,,,,,
+100552710,Petro Chemical Engineering,"Sant Gadge Baba Amravati University,Amravati (University Department)","GOPEN 17171
+(76.97%)",,,,,,,"GOBC 32318
+(69.74%)",LOPEN ,,,,,,LOBC ,,"EWS 39528
+(64.05%)",,,
+101219110,Civil Engineering,"Government College of Engineering,Yavatmal (Government)","GOPEN 3772
+(86.58%)","GSC 4806
+(85.47%)","GST 11251
+(80.37%)","GNTA 5045
+(85.21%)",,"GNTC 16844
+(77.11%)",,"GOBC 4253
+(86.05%)","LOPEN 2638
+(88.11%)","LSC 5960
+(84.37%)",,,,,"LOBC 4046
+(86.26%)","DEF-O 27767
+(72.00%)","EWS 3181
+(87.32%)","LNTD 38152
+(65.63%)","PWD-O 35730
+(67.63%)",
+101224510,Computer Engineering,"Government College of Engineering,Yavatmal (Government)","GOPEN 3242
+(87.24%)",,"GST 35750
+(67.60%)",,,"GNTC 5541
+(84.74%)",,"GOBC 3725
+(86.63%)","LOPEN 2321
+(88.59%)","LSC 8824
+(82.00%)",,,,,"LOBC 4830
+(85.43%)",,"EWS 5309
+(84.95%)",,,
+101229310,Electrical Engineering,"Government College of Engineering,Yavatmal (Government)","GOPEN 4404
+(85.89%)","GSC 9860
+(81.28%)","GST 20535
+(75.39%)",,,"GNTC 5316
+(84.94%)",,"GOBC 5878
+(84.44%)","LOPEN 3254
+(87.22%)","LSC 4971
+(85.28%)",,"LNTA 14908
+(78.17%)",,,"LOBC 4556
+(85.70%)",,"EWS 3799
+(86.56%)",,"PWD-O 7000
+(83.44%)",
+101237210,Electronics and Telecommunication Engg,"Government College of Engineering,Yavatmal (Government)","GOPEN 6302
+(84.06%)","GSC 8240
+(82.47%)","GST 15851
+(77.65%)",,,"GNTC 22749
+(74.35%)",,"GOBC 6332
+(84.05%)","LOPEN 5429
+(84.84%)","LSC 15842
+(77.65%)",,,,,"LOBC 5656
+(84.63%)",,"EWS 9363
+(81.65%)",,,
+101261210,Mechanical Engineering,"Government College of Engineering,Yavatmal (Government)","GOPEN 8271
+(82.46%)","GSC 10549
+(80.82%)","GST 34983
+(68.15%)",,,"GNTC 26299
+(72.72%)",,"GOBC 11365
+(80.30%)","LOPEN 18431
+(76.32%)",LSC ,,,LNTB ,,"LOBC 35552
+(67.74%)",,"EWS 9546
+(81.49%)",,"PWD-O 25881
+(72.92%)",
+110124210,Computer Science and Engineering,"Shri Sant Gajanan Maharaj College of Engineering,Shegaon (Un-Aided)","GOPEN 2477
+(88.34%)","GSC 5049
+(85.20%)",,,,,,"GOBC 3151
+(87.37%)","LOPEN 2563
+(88.21%)",,,,,,"LOBC 2599
+(88.16%)",,"EWS 4105
+(86.20%)",LNTD ,,
+110124610,Information Technology,"Shri Sant Gajanan Maharaj College of Engineering,Shegaon (Un-Aided)","GOPEN 4155
+(86.13%)",,,"GNTA 13691
+(78.86%)",,"GNTC 4809
+(85.45%)",,,,,,,,,"LOBC 3226
+(87.26%)",,"EWS 4309
+(86.00%)",,,
+110135610,Electrical Engg[Electronics and Power],"Shri Sant Gajanan Maharaj College of Engineering,Shegaon (Un-Aided)","GOPEN 2492
+(88.33%)","GSC 15379
+(77.89%)",,,,,,"GOBC 4585
+(85.67%)","LOPEN 5092
+(85.17%)","LSC 19714
+(75.72%)",,,,,,,"EWS 9315
+(81.67%)","LNTD 11403
+(80.28%)",,
+110137210,Electronics and Telecommunication Engg,"Shri Sant Gajanan Maharaj College of Engineering,Shegaon (Un-Aided)","GOPEN 5870
+(84.45%)","GSC 19532
+(75.82%)",,,"GNTB 28579
+(71.63%)",,,"GOBC 7099
+(83.35%)","LOPEN 4790
+(85.47%)","LSC 25604
+(73.06%)",,,,,"LOBC 4962
+(85.29%)","DEF-O 21366
+(75.00%)","EWS 12136
+(79.82%)",,,
+110161210,Mechanical Engineering,"Shri Sant Gajanan Maharaj College of Engineering,Shegaon (Un-Aided)","GOPEN 12148
+(79.81%)","GSC 24640
+(73.50%)","GST 35137
+(68.05%)","GNTA 30261
+(70.79%)","GNTB 31492
+(70.21%)","GNTC 32602
+(69.59%)",,"GOBC 15865
+(77.64%)","LOPEN 22957
+(74.26%)",LSC ,,,,,LOBC ,,"EWS 15737
+(77.69%)",,,
+110519110,Civil Engineering,"Prof. Ram Meghe Institute of Technology & Research, Amravati (Un-Aided)","GOPEN 5758
+(84.53%)","GSC 13105
+(79.21%)","GST 21828
+(75.00%)","GNTA 12570
+(79.53%)","GNTB 23741
+(73.94%)","GNTC 17189
+(76.95%)",,"GOBC 7726
+(82.84%)","LOPEN 4608
+(85.65%)","LSC 17415
+(76.84%)","LST 31929
+(69.95%)",,,,"LOBC 6082
+(84.26%)","DEF-O 42527
+(57.05%)","EWS 36554
+(67.00%)",,,
+110524210,Computer Science and Engineering,"Prof. Ram Meghe Institute of Technology & Research, Amravati (Un-Aided)","GOPEN 4628
+(85.63%)","GSC 8517
+(82.26%)",,"GNTA 21113
+(75.13%)",,,,"GOBC 5415
+(84.86%)","LOPEN 3179
+(87.32%)","LSC 12092
+(79.83%)",,,,"LNTC 13014
+(79.26%)","LOBC 3256
+(87.21%)","DEF-O 10217
+(81.05%)","EWS 6298
+(84.06%)",,,
+110524610,Information Technology,"Prof. Ram Meghe Institute of Technology & Research, Amravati (Un-Aided)","GOPEN 6051
+(84.29%)","GSC 12924
+(79.31%)",,,"GNTB 8540
+(82.23%)",,,"GOBC 6549
+(83.84%)","LOPEN 5847
+(84.46%)","LSC 16966
+(77.06%)",,,,,"LOBC 6022
+(84.32%)",,"EWS 9110
+(81.83%)",,,
+110526310,Artificial Intelligence (AI) and Data Science,"Prof. Ram Meghe Institute of Technology & Research, Amravati (Un-Aided)","GOPEN 11520
+(80.21%)","GSC 21167
+(75.11%)",,,,,"GNTD 28055
+(71.88%)",,,,,,,,"LOBC 11658
+(80.11%)",,"EWS 14614
+(78.33%)",,,
+110526510,Industrial IoT,"Prof. Ram Meghe Institute of Technology & Research, Amravati (Un-Aided)","GOPEN 18225
+(76.42%)","GSC 29926
+(70.97%)",,,,,,,,,,,,,"LOBC 16979
+(77.05%)",,"EWS 25806
+(72.95%)",,,
+110537210,Electronics and Telecommunication Engg,"Prof. Ram Meghe Institute of Technology & Research, Amravati (Un-Aided)","GOPEN 10830
+(80.63%)","GSC 16521
+(77.29%)",,"GNTA 31067
+(70.41%)",,,,"GOBC 11373
+(80.29%)","LOPEN 6977
+(83.47%)",,,,,,"LOBC 7522
+(83.00%)",,"EWS 15097
+(78.06%)",,,
+110561210,Mechanical Engineering,"Prof. Ram Meghe Institute of Technology & Research, Amravati (Un-Aided)","GOPEN 16051
+(77.54%)","GSC 22383
+(74.97%)",,,,,,"GOBC 25687
+(73.03%)","LOPEN 10025
+(81.16%)",LSC ,,,,,LOBC ,,"EWS 31609
+(70.15%)",,,
+110719110,Civil Engineering,"P. R. Pote (Patil) Education & Welfare Trust's Group of Institution(Integrated Campus), Amravati (Un-Aided)","GOPEN 5763
+(84.53%)","GSC 21286
+(75.05%)","GST 35049
+(68.11%)",,,,,"GOBC 10971
+(80.53%)",,,,LNTA ,,,"LOBC 2945
+(87.68%)","DEF-O 35968
+(67.45%)","EWS 36441
+(67.11%)",,"PWD-O 23893
+(73.84%)",
+110724210,Computer Science and Engineering,"P. R. Pote (Patil) Education & Welfare Trust's Group of Institution(Integrated Campus), Amravati (Un-Aided)","GOPEN 6295
+(84.06%)","GSC 13530
+(78.95%)","GST 29781
+(71.03%)",,"GNTB 15020
+(78.11%)","GNTC 13900
+(78.74%)","GNTD 10581
+(80.80%)","GOBC 7559
+(82.97%)","LOPEN 4828
+(85.43%)","LSC 10039
+(81.15%)",,"LNTA 41213
+(61.29%)",,,"LOBC 5216
+(85.05%)","DEF-O 15650
+(77.74%)","EWS 9828
+(81.31%)",,,
+110729310,Electrical Engineering,"P. R. Pote (Patil) Education & Welfare Trust's Group of Institution(Integrated Campus), Amravati (Un-Aided)","GOPEN 7058
+(83.39%)","GSC 7110
+(83.33%)","GST 22842
+(74.32%)",,,,"GNTD 22684
+(74.39%)","GOBC 7444
+(83.06%)","LOPEN 10530
+(80.83%)",,,,,,"LOBC 12908
+(79.32%)",,"EWS 20783
+(75.28%)",,,
+110737210,Electronics and Telecommunication Engg,"P. R. Pote (Patil) Education & Welfare Trust's Group of Institution(Integrated Campus), Amravati (Un-Aided)","GOPEN 14784
+(78.24%)",,,,"GNTB 24678
+(73.49%)",,,"GOBC 18028
+(76.53%)","LOPEN 14528
+(78.37%)","LSC 33990
+(68.76%)",,,,"LNTC 34073
+(68.71%)",,,"EWS 28149
+(71.83%)",,,
+110761210,Mechanical Engineering,"P. R. Pote (Patil) Education & Welfare Trust's Group of Institution(Integrated Campus), Amravati (Un-Aided)","GOPEN 25080
+(73.31%)","GSC 32794
+(69.47%)",,,,"GNTC 26318
+(72.72%)",,"GOBC 30623
+(70.62%)",LOPEN ,LSC ,,,,,LOBC ,,,,,
+110799510,Artificial Intelligence and Data Science,"P. R. Pote (Patil) Education & Welfare Trust's Group of Institution(Integrated Campus), Amravati (Un-Aided)","GOPEN 13469
+(79.00%)","GSC 22694
+(74.39%)",,,,,,,"LOPEN 11243
+(80.37%)",,,,,,"LOBC 13195
+(79.16%)",,"EWS 12749
+(79.43%)",,,
+111419110,Civil Engineering,"Sipna Shikshan Prasarak Mandal College of Engineering & Technology, Amravati (Un-Aided)","GOPEN 11147
+(80.42%)","GSC 13822
+(78.79%)","GST 36077
+(67.37%)",,,,,"GOBC 11996
+(79.89%)","LOPEN 9588
+(81.47%)",,,,,"LNTC 11808
+(80.05%)","LOBC 10965
+(80.53%)",,"EWS 27514
+(72.16%)",,,
+111424210,Computer Science and Engineering,"Sipna Shikshan Prasarak Mandal College of Engineering & Technology, Amravati (Un-Aided)","GOPEN 7555
+(82.97%)","GSC 10587
+(80.80%)",,"GNTA 23034
+(74.23%)",,"GNTC 12508
+(79.58%)",,"GOBC 8007
+(82.63%)","LOPEN 6350
+(84.00%)","LSC 17264
+(76.91%)",,,,,"LOBC 6739
+(83.66%)",,"EWS 12862
+(79.35%)",,,
+111424610,Information Technology,"Sipna Shikshan Prasarak Mandal College of Engineering & Technology, Amravati (Un-Aided)","GOPEN 8640
+(82.16%)","GSC 13119
+(79.20%)",,,,,"GNTD 25695
+(73.00%)","GOBC 10030
+(81.16%)","LOPEN 8097
+(82.57%)","LSC 22172
+(74.97%)",,,,,"LOBC 8551
+(82.23%)",,"EWS 14669
+(78.29%)",,,
+111437210,Electronics and Telecommunication Engg,"Sipna Shikshan Prasarak Mandal College of Engineering & Technology, Amravati (Un-Aided)","GOPEN 15852
+(77.65%)","GSC 21378
+(75.00%)",,,,,,"GOBC 17809
+(76.63%)","LOPEN 15877
+(77.63%)",,,,,,"LOBC 17691
+(76.71%)",,"EWS 34934
+(68.17%)",,,
+111461210,Mechanical Engineering,"Sipna Shikshan Prasarak Mandal College of Engineering & Technology, Amravati (Un-Aided)","GOPEN 20285
+(75.49%)","GSC 26191
+(72.77%)",,,,,,"GOBC 23613
+(74.00%)",LOPEN ,,,,,,LOBC ,,,,,
+111619110,Civil Engineering,"Shri Shivaji Education Society's College of Engineering and Technology, Akola (Un-Aided)","GOPEN 21043
+(75.16%)","GSC 24441
+(73.60%)",,,,,,"GOBC 31027
+(70.42%)","LOPEN 21496
+(75.00%)",,,,LNTB ,,LOBC ,,,,,
+111624210,Computer Science and Engineering,"Shri Shivaji Education Society's College of Engineering and Technology, Akola (Un-Aided)","GOPEN 16685
+(77.20%)","GSC 21608
+(75.00%)",,,,,"GNTD 17922
+(76.58%)","GOBC 17742
+(76.69%)","LOPEN 15680
+(77.71%)","LSC 17962
+(76.57%)",,,,,"LOBC 17370
+(76.86%)",,"EWS 17819
+(76.63%)",,,
+111650710,Chemical Engineering,"Shri Shivaji Education Society's College of Engineering and Technology, Akola (Un-Aided)","GOPEN 40979
+(61.78%)",,,,,,,,"LOPEN 11312
+(80.33%)",,,,,,,,,,,
+111661210,Mechanical Engineering,"Shri Shivaji Education Society's College of Engineering and Technology, Akola (Un-Aided)","GOPEN 43076
+(50.60%)",,,,,,,,"LOPEN 39220
+(64.41%)",,,,,,,,,,,
+111719110,Civil Engineering,"Janata Shikshan Prasarak MandalÃ¢â‚¬â„¢s Babasaheb Naik College Of Engineering, Pusad (Un-Aided)","GOPEN 42631
+(56.38%)",,,,,,,,"LOPEN 41778
+(60.00%)",,,,,,,,,,,
+111724210,Computer Science and Engineering,"Janata Shikshan Prasarak MandalÃ¢â‚¬â„¢s Babasaheb Naik College Of Engineering, Pusad (Un-Aided)","GOPEN 21247
+(75.06%)","GSC 29558
+(71.14%)",,,,,,"GOBC 28298
+(71.76%)","LOPEN 26365
+(72.69%)",LSC ,,,,,"LOBC 28610
+(71.60%)",,"EWS 22038
+(74.97%)",,,
+111735610,Electrical Engg[Electronics and Power],"Janata Shikshan Prasarak MandalÃ¢â‚¬â„¢s Babasaheb Naik College Of Engineering, Pusad (Un-Aided)","GOPEN 27252
+(72.28%)",,,"GNTA 37981
+(65.78%)",,,,"GOBC 38378
+(65.39%)","LOPEN 34341
+(68.56%)",,,,,,,,,,,
+111799510,Artificial Intelligence and Data Science,"Janata Shikshan Prasarak MandalÃ¢â‚¬â„¢s Babasaheb Naik College Of Engineering, Pusad (Un-Aided)","GOPEN 23172
+(74.17%)",,,"GNTA 38249
+(65.54%)",,,,"GOBC 37306
+(66.37%)","LOPEN 34536
+(68.44%)",,,,,,,,"EWS 32979
+(69.37%)",,,
+111924210,Computer Science and Engineering,"Paramhansa Ramkrishna Maunibaba Shikshan Santha's , Anuradha Engineering College, Chikhali (Un-Aided)","GOPEN 21911
+(74.97%)",,,,,,,"GOBC 21989
+(74.97%)","LOPEN 5822
+(84.47%)",,,,,,"LOBC 15607
+(77.77%)",,"EWS 27079
+(72.34%)",,,
+111924610,Information Technology,"Paramhansa Ramkrishna Maunibaba Shikshan Santha's , Anuradha Engineering College, Chikhali (Un-Aided)","GOPEN 24909
+(73.38%)",,,,,,,"GOBC 25726
+(73.00%)","LOPEN 19956
+(75.63%)",,,,,"LNTC 23277
+(74.11%)",,,"EWS 29315
+(71.26%)",,,
+111937210,Electronics and Telecommunication Engg,"Paramhansa Ramkrishna Maunibaba Shikshan Santha's , Anuradha Engineering College, Chikhali (Un-Aided)","GOPEN 29613
+(71.12%)",,,,,"GNTC 31542
+(70.18%)",,"GOBC 32311
+(69.75%)","LOPEN 25362
+(73.18%)","LSC 26819
+(72.47%)",,,,,,,,,,
+111950710,Chemical Engineering,"Paramhansa Ramkrishna Maunibaba Shikshan Santha's , Anuradha Engineering College, Chikhali (Un-Aided)","GOPEN 31158
+(70.36%)","GSC 42617
+(56.47%)",,,,,"GNTD 40975
+(61.78%)","GOBC 37950
+(65.82%)","LOPEN 28358
+(71.72%)",,,,,,LOBC ,,"EWS 24630
+(73.50%)",,,
+111961210,Mechanical Engineering,"Paramhansa Ramkrishna Maunibaba Shikshan Santha's , Anuradha Engineering College, Chikhali (Un-Aided)","GOPEN 41841
+(60.00%)",,,,,,,,"LOPEN 27385
+(72.21%)",,,,,,,,,,,
+112019110,Civil Engineering,"Jawaharlal Darda Institute of Engineering and Technology, Yavatmal (Un-Aided Linguistic Minority - Hindi)","GOPEN 38657
+(65.06%)",,,,,,,,"LOPEN 35931
+(67.47%)",,,,,,,,,,,
+112024210,Computer Science and Engineering,"Jawaharlal Darda Institute of Engineering and Technology, Yavatmal (Un-Aided Linguistic Minority - Hindi)","GOPEN 11377
+(80.29%)",,,,,,,,"LOPEN 9165
+(81.77%)",,,,,,,,,,,"MI 12962
+(79.31%)"
+112029310,Electrical Engineering,"Jawaharlal Darda Institute of Engineering and Technology, Yavatmal (Un-Aided Linguistic Minority - Hindi)","GOPEN 12886
+(79.33%)",,,,,,,,"LOPEN 18760
+(76.17%)",,,,,,,,,,,
+112037210,Electronics and Telecommunication Engg,"Jawaharlal Darda Institute of Engineering and Technology, Yavatmal (Un-Aided Linguistic Minority - Hindi)","GOPEN 8538
+(82.24%)",,,,,,,,,,,,,,,,,,,
+112050710,Chemical Engineering,"Jawaharlal Darda Institute of Engineering and Technology, Yavatmal (Un-Aided Linguistic Minority - Hindi)","GOPEN 34698
+(68.33%)",,,,,,,,,,,,,,,,,,,
+112061210,Mechanical Engineering,"Jawaharlal Darda Institute of Engineering and Technology, Yavatmal (Un-Aided Linguistic Minority - Hindi)","GOPEN 36205
+(67.28%)",,,,,,,,LOPEN ,,,,,,,,,,,
+112089310,Textile Engineering / Technology,"Jawaharlal Darda Institute of Engineering and Technology, Yavatmal (Un-Aided Linguistic Minority - Hindi)","GOPEN 35912
+(67.50%)",,,,,,,,"LOPEN 23522
+(74.00%)",,,,,,,,,,,
+112124210,Computer Science and Engineering,"Shri Hanuman Vyayam  Prasarak Mandals College of Engineering & Technology, Amravati (Un-Aided)","GOPEN 14295
+(78.51%)","GSC 17451
+(76.82%)",,,,,,"GOBC 15244
+(78.00%)","LOPEN 11991
+(79.89%)",,,,,,,,"EWS 18617
+(76.24%)",,,
+112124610,Information Technology,"Shri Hanuman Vyayam  Prasarak Mandals College of Engineering & Technology, Amravati (Un-Aided)","GOPEN 16207
+(77.47%)","GSC 19453
+(75.85%)",,,,,,"GOBC 16808
+(77.13%)",,,,,,,"LOBC 16376
+(77.37%)",,"EWS 21917
+(74.97%)",,,
+112137210,Electronics and Telecommunication Engg,"Shri Hanuman Vyayam  Prasarak Mandals College of Engineering & Technology, Amravati (Un-Aided)","GOPEN 20994
+(75.18%)","GSC 27396
+(72.21%)",,"GNTA 31772
+(70.06%)",,,,"GOBC 21770
+(75.00%)","LOPEN 19344
+(75.89%)",,,,,,"LOBC 21767
+(75.00%)",,,,,
+112161210,Mechanical Engineering,"Shri Hanuman Vyayam  Prasarak Mandals College of Engineering & Technology, Amravati (Un-Aided)","GOPEN 38242
+(65.54%)","GSC 38750
+(64.97%)",,,,,,,LOPEN ,,,,,,,,"EWS 20549
+(75.38%)",,,
+112319110,Civil Engineering,"Dr.Rajendra Gode Institute of Technology & Research, Amravati (Un-Aided)","GOPEN 20213
+(75.53%)","GSC 33424
+(69.11%)","GST 42228
+(58.53%)",,,,,"GOBC 25498
+(73.11%)","LOPEN 20927
+(75.21%)","LSC 33325
+(69.16%)",,LNTA ,,,"LOBC 25292
+(73.21%)",,,,,
+112324210,Computer Science and Engineering,"Dr.Rajendra Gode Institute of Technology & Research, Amravati (Un-Aided)","GOPEN 12206
+(79.77%)",,,,"GNTB 23410
+(74.06%)","GNTC 22057
+(74.97%)",,"GOBC 14071
+(78.63%)","LOPEN 10206
+(81.05%)","LSC 19403
+(75.89%)","LST 27727
+(72.06%)",,,,,,"EWS 19783
+(75.69%)",,,
+112337210,Electronics and Telecommunication Engg,"Dr.Rajendra Gode Institute of Technology & Research, Amravati (Un-Aided)","GOPEN 25837
+(72.94%)","GSC 27445
+(72.18%)",,,"GNTB 31524
+(70.20%)",,,"GOBC 26453
+(72.65%)","LOPEN 25129
+(73.29%)",,,,,,"LOBC 25413
+(73.16%)",,"EWS 34563
+(68.41%)",,,
+112361210,Mechanical Engineering,"Dr.Rajendra Gode Institute of Technology & Research, Amravati (Un-Aided)","GOPEN 34136
+(68.67%)","GSC 41111
+(61.49%)",,,,,,"GOBC 37044
+(66.62%)",LOPEN ,LSC ,,,,,,,"EWS 39587
+(64.00%)",,,
+112519110,Civil Engineering,"Dwarka Bahu Uddeshiya Gramin Vikas Foundation, Rajarshri Shahu College of Engineering, Buldhana (Un-Aided)","GOPEN 32088
+(69.89%)","GSC 37074
+(66.58%)","GST 42349
+(58.00%)",,,,,"GOBC 42038
+(59.22%)","LOPEN 40563
+(62.55%)",,,,,,,,,,"PWD-O 43058
+(51.15%)",
+112524210,Computer Science and Engineering,"Dwarka Bahu Uddeshiya Gramin Vikas Foundation, Rajarshri Shahu College of Engineering, Buldhana (Un-Aided)","GOPEN 17287
+(76.91%)","GSC 33169
+(69.26%)",,,,,,"GOBC 27091
+(72.34%)","LOPEN 10508
+(80.86%)",,,,,,"LOBC 24674
+(73.49%)",,"EWS 23745
+(73.92%)",,,
+112529310,Electrical Engineering,"Dwarka Bahu Uddeshiya Gramin Vikas Foundation, Rajarshri Shahu College of Engineering, Buldhana (Un-Aided)","GOPEN 23147
+(74.17%)","GSC 38676
+(65.06%)",,,"GNTB 39929
+(63.50%)",,,"GOBC 32485
+(69.65%)","LOPEN 14427
+(78.42%)","LSC 30726
+(70.56%)",,,,,"LOBC 26303
+(72.72%)",,,,,
+112561210,Mechanical Engineering,"Dwarka Bahu Uddeshiya Gramin Vikas Foundation, Rajarshri Shahu College of Engineering, Buldhana (Un-Aided)","GOPEN 25250
+(73.23%)","GSC 39251
+(64.39%)",,"GNTA 42635
+(56.35%)","GNTB 33389
+(69.13%)",,,"GOBC 35763
+(67.59%)","LOPEN 40916
+(61.88%)",,,,,,LOBC ,,,,,
+112619110,Civil Engineering,"Shri. Dadasaheb Gawai Charitable Trust's Dr. Smt. Kamaltai Gawai Institute of Engineering & Technology, Darapur, Amravati (Un-Aided)","GOPEN 28773
+(71.53%)","GSC 35149
+(68.05%)",,,"GNTB 29765
+(71.05%)",,,"GOBC 34800
+(68.26%)","LOPEN 33936
+(68.79%)","LSC 36612
+(66.95%)",,,,,LOBC ,,"EWS 41858
+(60.00%)",,,
+112624210,Computer Science and Engineering,"Shri. Dadasaheb Gawai Charitable Trust's Dr. Smt. Kamaltai Gawai Institute of Engineering & Technology, Darapur, Amravati (Un-Aided)","GOPEN 15473
+(77.85%)","GSC 15872
+(77.64%)",,,,,,,,,,,,,"LOBC 10067
+(81.14%)",,"EWS 28820
+(71.49%)",,,
+112629310,Electrical Engineering,"Shri. Dadasaheb Gawai Charitable Trust's Dr. Smt. Kamaltai Gawai Institute of Engineering & Technology, Darapur, Amravati (Un-Aided)","GOPEN 16339
+(77.39%)","GSC 17544
+(76.78%)","GST 20908
+(75.22%)",,,,,"GOBC 23946
+(73.83%)","LOPEN 16850
+(77.11%)","LSC 33222
+(69.22%)",,,,"LNTC 31598
+(70.16%)","LOBC 21491
+(75.00%)",,,,,
+112637210,Electronics and Telecommunication Engg,"Shri. Dadasaheb Gawai Charitable Trust's Dr. Smt. Kamaltai Gawai Institute of Engineering & Technology, Darapur, Amravati (Un-Aided)","GOPEN 5334
+(84.94%)",,,,,,,"GOBC 16969
+(77.06%)",,"LSC 39102
+(64.53%)",,,,,,,,,,
+112661210,Mechanical Engineering,"Shri. Dadasaheb Gawai Charitable Trust's Dr. Smt. Kamaltai Gawai Institute of Engineering & Technology, Darapur, Amravati (Un-Aided)","GOPEN 20170
+(75.54%)","GSC 32789
+(69.49%)",,"GNTA 27283
+(72.26%)",,,,"GOBC 26534
+(72.62%)","LOPEN 39706
+(63.82%)",LSC ,LST ,,,,LOBC ,,,,,
+112719110,Civil Engineering,"Jagadambha Bahuuddeshiya Gramin Vikas Sanstha's Jagdambha College of Engineering and Technology, Yavatmal (Un-Aided)","GOPEN 39838
+(63.63%)",,,,,,,,"LOPEN 18576
+(76.26%)",,,,,,,,,,,
+112724510,Computer Engineering,"Jagadambha Bahuuddeshiya Gramin Vikas Sanstha's Jagdambha College of Engineering and Technology, Yavatmal (Un-Aided)","GOPEN 21944
+(74.97%)","GSC 30924
+(70.46%)","GST 36246
+(67.25%)",,,,,"GOBC 25317
+(73.20%)","LOPEN 21898
+(74.97%)",LSC ,,,,,"LOBC 23426
+(74.06%)",,"EWS 37752
+(66.00%)",,"PWD-O 11045
+(80.50%)",
+112729310,Electrical Engineering,"Jagadambha Bahuuddeshiya Gramin Vikas Sanstha's Jagdambha College of Engineering and Technology, Yavatmal (Un-Aided)","GOPEN 21797
+(75.00%)","GSC 24774
+(73.44%)","GST 27439
+(72.18%)",,,,,,"LOPEN 21740
+(75.00%)",,,,,,"LOBC 23153
+(74.17%)",,,,,
+112737210,Electronics and Telecommunication Engg,"Jagadambha Bahuuddeshiya Gramin Vikas Sanstha's Jagdambha College of Engineering and Technology, Yavatmal (Un-Aided)","GOPEN 32491
+(69.65%)",,,,,,,,,,,,,,"LOBC 24954
+(73.37%)",,,,,
+112761210,Mechanical Engineering,"Jagadambha Bahuuddeshiya Gramin Vikas Sanstha's Jagdambha College of Engineering and Technology, Yavatmal (Un-Aided)","GOPEN 35155
+(68.05%)","GSC 38192
+(65.59%)",,,,,,,,,,,,,,,,,,
+112819110,Civil Engineering,"Prof Ram Meghe College of Engineering  and Management, Badnera (Un-Aided)","GOPEN 12919
+(79.32%)","GSC 31143
+(70.37%)",,,,,,"GOBC 13196
+(79.16%)","LOPEN 10523
+(80.84%)","LSC 23628
+(73.95%)",,,,"LNTC 25948
+(72.89%)",,,"EWS 11417
+(80.26%)",,,
+112824210,Computer Science and Engineering,"Prof Ram Meghe College of Engineering  and Management, Badnera (Un-Aided)","GOPEN 6551
+(83.84%)","GSC 11829
+(80.00%)",,,,"GNTC 16023
+(77.54%)",,"GOBC 8993
+(81.89%)","LOPEN 7634
+(82.91%)","LSC 9167
+(81.77%)",,LNTA ,,,,,"EWS 18489
+(76.29%)",,,
+112824610,Information Technology,"Prof Ram Meghe College of Engineering  and Management, Badnera (Un-Aided)","GOPEN 10428
+(80.91%)","GSC 19823
+(75.67%)",,,"GNTB 17741
+(76.69%)","GNTC 27902
+(71.95%)",,"GOBC 10655
+(80.74%)","LOPEN 9208
+(81.75%)","LSC 19866
+(75.66%)",,,,,"LOBC 10054
+(81.14%)",,"EWS 21941
+(74.97%)",,,
+112829310,Electrical Engineering,"Prof Ram Meghe College of Engineering  and Management, Badnera (Un-Aided)","GOPEN 9849
+(81.28%)","GSC 12137
+(79.82%)","GST 30267
+(70.79%)","GNTA 18417
+(76.33%)",,,,"GOBC 11512
+(80.22%)","LOPEN 9519
+(81.50%)","LSC 18778
+(76.17%)",,,,,"LOBC 15040
+(78.11%)",,"EWS 29981
+(70.94%)",,,
+112837210,Electronics and Telecommunication Engg,"Prof Ram Meghe College of Engineering  and Management, Badnera (Un-Aided)","GOPEN 12873
+(79.35%)",,,,,,,"GOBC 13947
+(78.71%)","LOPEN 13553
+(78.94%)","LSC 23998
+(73.79%)",,,,,,,"EWS 39413
+(64.18%)",,,
+112891210,Computer Science and Engineering(Data Science),"Prof Ram Meghe College of Engineering  and Management, Badnera (Un-Aided)","GOPEN 13697
+(78.86%)","GSC 16052
+(77.54%)",,,,,,"GOBC 13877
+(78.74%)",,,,,,,"LOBC 11813
+(80.00%)",,"EWS 25332
+(73.20%)",,,
+113019110,Civil Engineering,"Vision Buldhana Educational & Welfare Society's Pankaj Laddhad Institute of Technology & Management Studies, Yelgaon (Un-Aided)","GOPEN 36821
+(66.79%)","GSC 42762
+(55.47%)",,,,,,,"LOPEN 21720
+(75.00%)","LSC 26256
+(72.74%)",,,,,,,,,,
+113024210,Computer Science and Engineering,"Vision Buldhana Educational & Welfare Society's Pankaj Laddhad Institute of Technology & Management Studies, Yelgaon (Un-Aided)","GOPEN 26351
+(72.69%)",,,,,,,,,,,,,,"LOBC 32474
+(69.66%)",,,,,
+113035610,Electrical Engg[Electronics and Power],"Vision Buldhana Educational & Welfare Society's Pankaj Laddhad Institute of Technology & Management Studies, Yelgaon (Un-Aided)","GOPEN 39294
+(64.32%)","GSC 42339
+(58.00%)",,,,,,,"LOPEN 19071
+(76.00%)","LSC 41793
+(60.00%)",,,,,"LOBC 20236
+(75.50%)",,"EWS 37089
+(66.56%)",,,
+113037210,Electronics and Telecommunication Engg,"Vision Buldhana Educational & Welfare Society's Pankaj Laddhad Institute of Technology & Management Studies, Yelgaon (Un-Aided)","GOPEN 33555
+(69.03%)",,,,,,,"GOBC 41484
+(60.67%)",LOPEN ,,,,,,,,,,,
+113061210,Mechanical Engineering,"Vision Buldhana Educational & Welfare Society's Pankaj Laddhad Institute of Technology & Management Studies, Yelgaon (Un-Aided)","GOPEN 28313
+(71.75%)",,,,"GNTB 34855
+(68.21%)",,,"GOBC 35394
+(67.85%)",LOPEN ,,,,,,,,,,,
+118019110,Civil Engineering,"Sanmati Engineering College, Sawargaon Barde, Washim (Un-Aided)","GOPEN 40547
+(62.58%)","GSC 42577
+(56.73%)",,,,,,,"LOPEN 40030
+(63.39%)",,,,,,,,"EWS 34711
+(68.32%)",,"PWD-O 13727
+(78.84%)",
+118024210,Computer Science and Engineering,"Sanmati Engineering College, Sawargaon Barde, Washim (Un-Aided)","GOPEN 27956
+(71.94%)","GSC 39684
+(63.83%)",,"GNTA 29970
+(70.94%)",,"GNTC 40243
+(63.07%)","GNTD 39576
+(64.00%)","GOBC 35751
+(67.60%)","LOPEN 27730
+(72.06%)","LSC 31319
+(70.29%)","LST 36083
+(67.37%)",,,,"LOBC 37722
+(66.00%)",,"EWS 32969
+(69.37%)",,,
+118026310,Artificial Intelligence (AI) and Data Science,"Sanmati Engineering College, Sawargaon Barde, Washim (Un-Aided)","GOPEN 43079
+(50.50%)",,,,,,,,"LOPEN 36308
+(67.20%)",,,,,,,,,,,
+118029310,Electrical Engineering,"Sanmati Engineering College, Sawargaon Barde, Washim (Un-Aided)","GOPEN 40670
+(62.39%)",,,,,,,,"LOPEN 29013
+(71.39%)","LSC 33213
+(69.22%)",,,,,"LOBC 38101
+(65.67%)",,,,,
+118061210,Mechanical Engineering,"Sanmati Engineering College, Sawargaon Barde, Washim (Un-Aided)","GOPEN 42584
+(56.67%)",,,,,,,,,,,,,,,,,,,
+118219110,Civil Engineering,"Padmashri Dr. V.B.  Kolte College of Engineering, Malkapur, Buldhana (Un-Aided)","GOPEN 24002
+(73.79%)","GSC 37786
+(65.95%)","GST 35415
+(67.84%)",,"GNTB 35861
+(67.53%)","GNTC 40231
+(63.09%)",,"GOBC 34034
+(68.73%)","LOPEN 41818
+(60.00%)",LSC ,,,,,LOBC ,,"EWS 32232
+(69.79%)",,"PWD-O 23902
+(73.84%)",
+118224210,Computer Science and Engineering,"Padmashri Dr. V.B.  Kolte College of Engineering, Malkapur, Buldhana (Un-Aided)","GOPEN 20799
+(75.28%)","GSC 22302
+(74.97%)",,,"GNTB 28257
+(71.77%)",,,"GOBC 23647
+(73.95%)","LOPEN 15900
+(77.61%)","LSC 36812
+(66.80%)",,,,,"LOBC 18628
+(76.23%)",,"EWS 28145
+(71.83%)",,,
+118229310,Electrical Engineering,"Padmashri Dr. V.B.  Kolte College of Engineering, Malkapur, Buldhana (Un-Aided)","GOPEN 20396
+(75.44%)","GSC 30793
+(70.53%)",,,,,,"GOBC 29157
+(71.33%)","LOPEN 11755
+(80.06%)",,,,,,"LOBC 27578
+(72.11%)",,,,,
+118261210,Mechanical Engineering,"Padmashri Dr. V.B.  Kolte College of Engineering, Malkapur, Buldhana (Un-Aided)","GOPEN 10263
+(81.03%)","GSC 19919
+(75.64%)","GST 20552
+(75.38%)",,,"GNTC 32857
+(69.44%)",,"GOBC 27864
+(72.00%)",LOPEN ,LSC ,,,,,LOBC ,,"EWS 36468
+(67.09%)",,,
+126519110,Civil Engineering,"Mauli Group of Institutions, College of Engineering and Technology, Shegaon. (Un-Aided)","GOPEN 38812
+(64.89%)",,,,,,,,"LOPEN 27026
+(72.37%)",,,,,,"LOBC 28320
+(71.74%)",,"EWS 21033
+(75.16%)",,,
+126524210,Computer Science and Engineering,"Mauli Group of Institutions, College of Engineering and Technology, Shegaon. (Un-Aided)","GOPEN 6379
+(84.00%)","GSC 11489
+(80.23%)",,,,,,"GOBC 8689
+(82.11%)","LOPEN 6422
+(83.94%)",,,,,,"LOBC 9163
+(81.77%)",,"EWS 9180
+(81.77%)",,,
+126524610,Information Technology,"Mauli Group of Institutions, College of Engineering and Technology, Shegaon. (Un-Aided)","GOPEN 11916
+(79.94%)","GSC 26611
+(72.57%)",,,,,,"GOBC 12359
+(79.66%)","LOPEN 12626
+(79.49%)",,,,,,"LOBC 16813
+(77.13%)",,"EWS 16602
+(77.24%)",,,
+126535610,Electrical Engg[Electronics and Power],"Mauli Group of Institutions, College of Engineering and Technology, Shegaon. (Un-Aided)","GOPEN 23523
+(74.00%)","GSC 29624
+(71.11%)",,,,,,"GOBC 24892
+(73.39%)","LOPEN 28352
+(71.72%)",,,,,,"LOBC 29511
+(71.17%)",,"EWS 12188
+(79.78%)",,,
+126537210,Electronics and Telecommunication Engg,"Mauli Group of Institutions, College of Engineering and Technology, Shegaon. (Un-Aided)","GOPEN 29600
+(71.12%)","GSC 29982
+(70.94%)",,,,,,"GOBC 32117
+(69.88%)","LOPEN 28986
+(71.41%)",,,,,,"LOBC 29362
+(71.25%)",,"EWS 30892
+(70.47%)",,,
+126561210,Mechanical Engineering,"Mauli Group of Institutions, College of Engineering and Technology, Shegaon. (Un-Aided)","GOPEN 27974
+(71.90%)",,,,,,,"GOBC 32681
+(69.54%)",LOPEN ,,,,,,LOBC ,,,,,
+126819110,Civil Engineering,"Siddhivinayak Technical Campus, School of Engineering & Research Technology, Shirasgon, Nile  (Un-Aided)","GOPEN 18581
+(76.26%)",,,,,,,,"LOPEN 32414
+(69.70%)",,,,,,,,,,,
+126824210,Computer Science and Engineering,"Siddhivinayak Technical Campus, School of Engineering & Research Technology, Shirasgon, Nile  (Un-Aided)","GOPEN 17149
+(76.97%)",,,,,,,"GOBC 18316
+(76.38%)",,,,,,"LNTC 24208
+(73.71%)",,,,,,
+126835610,Electrical Engg[Electronics and Power],"Siddhivinayak Technical Campus, School of Engineering & Research Technology, Shirasgon, Nile  (Un-Aided)","GOPEN 39582
+(64.00%)",,,,,,,,,,,,,,,,"EWS 28812
+(71.50%)",,,
+126837210,Electronics and Telecommunication Engg,"Siddhivinayak Technical Campus, School of Engineering & Research Technology, Shirasgon, Nile  (Un-Aided)","GOPEN 37707
+(66.00%)",,,,,,,,"LOPEN 25727
+(73.00%)",,,,,,"LOBC 30908
+(70.47%)",,,,,
+126861210,Mechanical Engineering,"Siddhivinayak Technical Campus, School of Engineering & Research Technology, Shirasgon, Nile  (Un-Aided)","GOPEN 31396
+(70.26%)",,,,,,,,,,,,,,,,,,,
+127619110,Civil Engineering,"Manav School of Engineering & Technology, Gut No.  Nagpur Surat Highway, NH No.  Tal.Vyala, Balapur, Akola,   (Un-Aided)","GOPEN 36613
+(66.95%)",,,,,,,,,,,,,,,,,,,
+127624510,Computer Engineering,"Manav School of Engineering & Technology, Gut No.  Nagpur Surat Highway, NH No.  Tal.Vyala, Balapur, Akola,   (Un-Aided)","GOPEN 22653
+(74.40%)","GSC 35687
+(67.66%)",,"GNTA 32283
+(69.77%)",,"GNTC 26350
+(72.69%)",,"GOBC 25902
+(72.91%)","LOPEN 24963
+(73.37%)","LSC 36005
+(67.43%)",,,,,"LOBC 25552
+(73.09%)",,"EWS 33243
+(69.20%)",,,
+127629310,Electrical Engineering,"Manav School of Engineering & Technology, Gut No.  Nagpur Surat Highway, NH No.  Tal.Vyala, Balapur, Akola,   (Un-Aided)","GOPEN 35083
+(68.06%)",,,,,,,,"LOPEN 30405
+(70.72%)",,,,,,,,,,,
+127661210,Mechanical Engineering,"Manav School of Engineering & Technology, Gut No.  Nagpur Surat Highway, NH No.  Tal.Vyala, Balapur, Akola,   (Un-Aided)","GOPEN 42616
+(56.47%)",,,,,,,,,,,,,,,,,,,
+200819110,Civil Engineering,"Government College of Engineering,  Aurangabad (Government Autonomous)","GOPEN 703
+(92.05%)",,"GST 2268
+(88.68%)",,,,"GNTD 1575
+(89.95%)","GOBC 730
+(92.00%)","LOPEN 981
+(91.21%)","LSC 1856
+(89.42%)",,,,,,,"EWS 904
+(91.42%)",,,
+200824210,Computer Science and Engineering,"Government College of Engineering,  Aurangabad (Government Autonomous)","GOPEN 553
+(92.60%)","GSC 2374
+(88.51%)",,"GNTA 4131
+(86.17%)",,,,"GOBC 718
+(92.00%)","LOPEN 204
+(94.65%)","LSC 4670
+(85.59%)",,,,,,,"EWS 336
+(93.65%)",,,
+200824610,Information Technology,"Government College of Engineering,  Aurangabad (Government Autonomous)","GOPEN 797
+(91.77%)","GSC 3035
+(87.54%)",,"GNTA 5184
+(85.09%)",,,,"GOBC 1002
+(91.18%)","LOPEN 645
+(92.24%)",,,,,,,,"EWS 572
+(92.53%)","LNTD 2848
+(87.81%)",,
+200829310,Electrical Engineering,"Government College of Engineering,  Aurangabad (Government Autonomous)","GOPEN 756
+(91.89%)","GSC 782
+(91.82%)","GST 6197
+(84.17%)",,,,,"GOBC 860
+(91.59%)","LOPEN 568
+(92.53%)","LSC 3721
+(86.65%)",,,,,,,"EWS 100
+(95.82%)",,,
+200837210,Electronics and Telecommunication Engg,"Government College of Engineering,  Aurangabad (Government Autonomous)","GOPEN 2399
+(88.47%)","GSC 4244
+(86.06%)",,"GNTA 6754
+(83.65%)",,"GNTC 10546
+(80.82%)",,"GOBC 2677
+(88.06%)","LOPEN 1449
+(90.18%)","LSC 7103
+(83.35%)",,,,,"LOBC 2473
+(88.35%)",,"EWS 2217
+(88.74%)",,,
+200861210,Mechanical Engineering,"Government College of Engineering,  Aurangabad (Government Autonomous)","GOPEN 1833
+(89.44%)","GSC 3885
+(86.46%)",,,"GNTB 5900
+(84.41%)",,,"GOBC 2083
+(88.97%)","LOPEN 2470
+(88.35%)","LSC 8535
+(82.24%)",,,,,"LOBC 4100
+(86.21%)",,"EWS 1427
+(90.24%)",,,
+202019110,Civil Engineering,"Shri Guru Gobind Singhji Institute of Engineering and Technology, Nanded (Government-Aided Autonomous)","GOPEN 940
+(91.32%)","GSC 3114
+(87.42%)",,,,,,"GOBC 1331
+(90.42%)","LOPEN 905
+(91.42%)",,,"LNTA 2009
+(89.11%)",,,"LOBC 1312
+(90.47%)",,"EWS 1069
+(91.00%)",,,
+202024210,Computer Science and Engineering,"Shri Guru Gobind Singhji Institute of Engineering and Technology, Nanded (Government-Aided Autonomous)","GOPEN 1061
+(91.00%)","GSC 1679
+(89.76%)","GST 9959
+(81.20%)",,,"GNTC 5746
+(84.53%)",,"GOBC 1726
+(89.66%)","LOPEN 1051
+(91.05%)","LSC 1819
+(89.47%)",,,,,"LOBC 1696
+(89.71%)","DEF-O 6490
+(83.89%)","EWS 1317
+(90.46%)",,"PWD-O 13701
+(78.86%)",
+202024610,Information Technology,"Shri Guru Gobind Singhji Institute of Engineering and Technology, Nanded (Government-Aided Autonomous)","GOPEN 1860
+(89.41%)","GSC 4632
+(85.63%)","GST 14574
+(78.35%)",,,,,"GOBC 1879
+(89.37%)",,,,,,,"LOBC 1808
+(89.49%)",,"EWS 1641
+(89.83%)",,,
+202029310,Electrical Engineering,"Shri Guru Gobind Singhji Institute of Engineering and Technology, Nanded (Government-Aided Autonomous)","GOPEN 916
+(91.40%)","GSC 1621
+(89.88%)",,"GNTA 1274
+(90.56%)",,,,,,,,,,,"LOBC 2288
+(88.63%)",,"EWS 1929
+(89.28%)",,,
+202037210,Electronics and Telecommunication Engg,"Shri Guru Gobind Singhji Institute of Engineering and Technology, Nanded (Government-Aided Autonomous)","GOPEN 2838
+(87.83%)","GSC 8315
+(82.42%)",,,"GNTB 12217
+(79.76%)",,"GNTD 10567
+(80.80%)","GOBC 3601
+(86.79%)","LOPEN 2167
+(88.82%)",,,,,,"LOBC 3089
+(87.47%)","DEF-O 4418
+(85.88%)","EWS 2615
+(88.12%)",,,
+202046610,Instrumentation Engineering,"Shri Guru Gobind Singhji Institute of Engineering and Technology, Nanded (Government-Aided Autonomous)","GOPEN 3860
+(86.47%)","GSC 8595
+(82.18%)",,,,,,,"LOPEN 4669
+(85.59%)",,,,,,"LOBC 12804
+(79.38%)",,"EWS 7100
+(83.35%)",,,
+202050710,Chemical Engineering,"Shri Guru Gobind Singhji Institute of Engineering and Technology, Nanded (Government-Aided Autonomous)","GOPEN 2357
+(88.53%)",,,,"GNTB 15901
+(77.61%)",,,"GOBC 4866
+(85.39%)","LOPEN 5150
+(85.11%)","LSC 21485
+(75.00%)",,,,,"LOBC 5208
+(85.06%)",,"EWS 6991
+(83.44%)",,,
+202060610,Production Engineering,"Shri Guru Gobind Singhji Institute of Engineering and Technology, Nanded (Government-Aided Autonomous)","GOPEN 8597
+(82.18%)","GSC 12891
+(79.33%)",,"GNTA 26690
+(72.53%)",,,,"GOBC 11979
+(79.90%)","LOPEN 18366
+(76.35%)","LSC 22627
+(74.41%)",,,,,"LOBC 18855
+(76.12%)",,"EWS 7305
+(83.18%)",LNTD ,,
+202061210,Mechanical Engineering,"Shri Guru Gobind Singhji Institute of Engineering and Technology, Nanded (Government-Aided Autonomous)","GOPEN 2140
+(88.88%)",,"GST 31327
+(70.29%)",,,,,"GOBC 3803
+(86.56%)","LOPEN 6218
+(84.15%)","LSC 14703
+(78.29%)",,,,,,,"EWS 5329
+(84.94%)",LNTD ,,
+202089610,Textile Technology,"Shri Guru Gobind Singhji Institute of Engineering and Technology, Nanded (Government-Aided Autonomous)","GOPEN 17662
+(76.72%)","GSC 25489
+(73.11%)",,,,,,"GOBC 23054
+(74.22%)","LOPEN 2316
+(88.60%)","LSC 23961
+(73.82%)",,,,,,,,LNTD ,,
+202150310,Food Technology,"University Department of Chemical Technology, Aurangabad (University Department)","GOPEN 10815
+(80.64%)",,,,,,,,"LOPEN 33289
+(69.18%)",,,,,,,,,,,
+202181610,Pharmaceutical and Fine Chemical Technology,"University Department of Chemical Technology, Aurangabad (University Department)","GOPEN 25670
+(73.03%)",,,,,,,,LOPEN ,,,,,,,,"EWS 26956
+(72.41%)",,,
+211119110,Civil Engineering,"Everest Education Society, Group of Institutions (Integrated Campus), Ohar (Un-Aided Religious Minority - Muslim)","GOPEN 41933
+(60.00%)",,,,,,,,,,,,,,,,,,,"MI 42023
+(59.27%)"
+211124210,Computer Science and Engineering,"Everest Education Society, Group of Institutions (Integrated Campus), Ohar (Un-Aided Religious Minority - Muslim)","GOPEN 19627
+(75.77%)",,,,,,,,"LOPEN 14589
+(78.34%)",,,,,,,,,,,"MI 28549
+(71.64%)"
+211129310,Electrical Engineering,"Everest Education Society, Group of Institutions (Integrated Campus), Ohar (Un-Aided Religious Minority - Muslim)","GOPEN 29969
+(70.94%)",,,,,,,,"LOPEN 34060
+(68.71%)",,,,,,,,,,,"MI 42008
+(59.33%)"
+211161210,Mechanical Engineering,"Everest Education Society, Group of Institutions (Integrated Campus), Ohar (Un-Aided Religious Minority - Muslim)","GOPEN 39730
+(63.79%)",,,,,,,,LOPEN ,,,,,,,,,,,"MI 39046
+(64.59%)"
+211219110,Civil Engineering,"Shree Yash Pratishthan, Shreeyash College of Engineering and Technology, Aurangabad (Un-Aided)","GOPEN 35671
+(67.67%)",,,"GNTA 36695
+(66.89%)","GNTB 41985
+(59.38%)",,,,"LOPEN 40564
+(62.55%)",,,LNTA ,,,,,"EWS 29943
+(70.95%)",,,
+211224210,Computer Science and Engineering,"Shree Yash Pratishthan, Shreeyash College of Engineering and Technology, Aurangabad (Un-Aided)","GOPEN 13820
+(78.79%)","GSC 20290
+(75.49%)",,,"GNTB 22072
+(74.97%)","GNTC 18484
+(76.29%)","GNTD 24918
+(73.38%)","GOBC 20852
+(75.26%)","LOPEN 13038
+(79.26%)","LSC 27202
+(72.29%)",,,,,"LOBC 20446
+(75.43%)",,"EWS 13791
+(78.80%)",,,
+211229310,Electrical Engineering,"Shree Yash Pratishthan, Shreeyash College of Engineering and Technology, Aurangabad (Un-Aided)","GOPEN 18538
+(76.28%)","GSC 27489
+(72.17%)",,,,"GNTC 29018
+(71.39%)","GNTD 24999
+(73.35%)","GOBC 29972
+(70.94%)","LOPEN 18665
+(76.22%)","LSC 20245
+(75.50%)",,,LNTB ,,"LOBC 24620
+(73.50%)",,"EWS 17429
+(76.83%)",,,
+211261210,Mechanical Engineering,"Shree Yash Pratishthan, Shreeyash College of Engineering and Technology, Aurangabad (Un-Aided)","GOPEN 30612
+(70.62%)","GSC 37689
+(66.05%)",,"GNTA 35123
+(68.06%)",,"GNTC 32990
+(69.35%)","GNTD 35976
+(67.44%)","GOBC 42591
+(56.62%)","LOPEN 28284
+(71.76%)",LSC ,,LNTA ,,,,,"EWS 26542
+(72.61%)",,,
+211284410,Electronics and Computer Engineering,"Shree Yash Pratishthan, Shreeyash College of Engineering and Technology, Aurangabad (Un-Aided)","GOPEN 21909
+(74.97%)","GSC 27473
+(72.17%)",,,,,,"GOBC 26874
+(72.44%)",,"LSC 34430
+(68.51%)",,,,,"LOBC 23413
+(74.06%)",,"EWS 21991
+(74.97%)",,,
+211291210,Computer Science and Engineering(Data Science),"Shree Yash Pratishthan, Shreeyash College of Engineering and Technology, Aurangabad (Un-Aided)","GOPEN 16692
+(77.19%)","GSC 24961
+(73.37%)",,"GNTA 32960
+(69.37%)",,"GNTC 34834
+(68.23%)",,"GOBC 21894
+(74.97%)","LOPEN 14091
+(78.63%)","LSC 27849
+(72.00%)",,,,,"LOBC 23269
+(74.11%)",,"EWS 14593
+(78.34%)",,,
+211301110,Agricultural Engineering,"G. S. Mandal's Maharashtra Institute of Technology, Aurangabad (Un-Aided Autonomous)","GOPEN 28089
+(71.85%)",,,,,,,,,,,,,,,,,,,
+211319110,Civil Engineering,"G. S. Mandal's Maharashtra Institute of Technology, Aurangabad (Un-Aided Autonomous)","GOPEN 29661
+(71.09%)","GSC 37242
+(66.42%)","GST 32157
+(69.84%)","GNTA 35349
+(67.89%)",,,"GNTD 37305
+(66.37%)","GOBC 41472
+(60.69%)","LOPEN 29630
+(71.11%)","LSC 42463
+(57.39%)","LST 33515
+(69.05%)",,,,,,"EWS 15769
+(77.68%)",LNTD ,,
+211324210,Computer Science and Engineering,"G. S. Mandal's Maharashtra Institute of Technology, Aurangabad (Un-Aided Autonomous)","GOPEN 4942
+(85.31%)","GSC 11960
+(79.94%)","GST 19397
+(75.89%)",,"GNTB 5789
+(84.51%)","GNTC 11226
+(80.39%)","GNTD 5467
+(84.80%)","GOBC 8668
+(82.13%)","LOPEN 3351
+(87.09%)","LSC 10918
+(80.57%)",,"LNTA 11483
+(80.23%)",,,"LOBC 6507
+(83.89%)","DEF-O 22125
+(74.97%)","EWS 1461
+(90.17%)",,,
+211325710,Computer Science and Design,"G. S. Mandal's Maharashtra Institute of Technology, Aurangabad (Un-Aided Autonomous)","GOPEN 7910
+(82.69%)","GSC 19603
+(75.78%)",,,,,,"GOBC 11597
+(80.17%)","LOPEN 8636
+(82.17%)","LSC 13997
+(78.69%)",,,,,"LOBC 13131
+(79.20%)",,"EWS 5417
+(84.86%)",,,
+211326310,Artificial Intelligence (AI) and Data Science,"G. S. Mandal's Maharashtra Institute of Technology, Aurangabad (Un-Aided Autonomous)","GOPEN 9388
+(81.63%)","GSC 15867
+(77.64%)",,,,,"GNTD 14691
+(78.29%)","GOBC 10271
+(81.02%)","LOPEN 9351
+(81.65%)","LSC 25075
+(73.31%)",,,,,"LOBC 13496
+(78.97%)",,"EWS 8179
+(82.51%)",,,
+211329310,Electrical Engineering,"G. S. Mandal's Maharashtra Institute of Technology, Aurangabad (Un-Aided Autonomous)","GOPEN 7603
+(82.94%)","GSC 12794
+(79.39%)","GST 36965
+(66.67%)",,,"GNTC 16598
+(77.24%)","GNTD 19001
+(76.06%)","GOBC 13298
+(79.11%)","LOPEN 9693
+(81.39%)","LSC 21392
+(75.00%)",,"LNTA 21246
+(75.06%)",,,"LOBC 17208
+(76.94%)",,"EWS 4854
+(85.41%)",,,
+211350110,Plastic and Polymer Engineering,"G. S. Mandal's Maharashtra Institute of Technology, Aurangabad (Un-Aided Autonomous)","GOPEN 16767
+(77.15%)","GSC 26943
+(72.41%)","GST 28082
+(71.87%)",,"GNTB 33275
+(69.19%)",,"GNTD 34399
+(68.52%)","GOBC 23620
+(73.98%)","LOPEN 11873
+(80.00%)","LSC 34269
+(68.60%)",,,,,LOBC ,,"EWS 15505
+(77.83%)",,,
+211361210,Mechanical Engineering,"G. S. Mandal's Maharashtra Institute of Technology, Aurangabad (Un-Aided Autonomous)","GOPEN 23657
+(73.95%)","GSC 33294
+(69.18%)",,"GNTA 29389
+(71.23%)","GNTB 37800
+(65.94%)","GNTC 32240
+(69.79%)",,"GOBC 29540
+(71.15%)","LOPEN 35412
+(67.84%)",LSC ,,,,,LOBC ,,"EWS 19921
+(75.64%)",,,
+211384410,Electronics and Computer Engineering,"G. S. Mandal's Maharashtra Institute of Technology, Aurangabad (Un-Aided Autonomous)","GOPEN 15930
+(77.60%)","GSC 23546
+(74.00%)","GST 39609
+(63.94%)",,,,"GNTD 17486
+(76.80%)","GOBC 21060
+(75.14%)","LOPEN 10624
+(80.76%)","LSC 27951
+(71.94%)",,"LNTA 23551
+(74.00%)",,"LNTC 30912
+(70.47%)","LOBC 15636
+(77.75%)",,"EWS 14337
+(78.47%)",,,
+211399510,Artificial Intelligence and Data Science,"G. S. Mandal's Maharashtra Institute of Technology, Aurangabad (Un-Aided Autonomous)","GOPEN 9667
+(81.41%)","GSC 15441
+(77.88%)",,"GNTA 21924
+(74.97%)",,,,"GOBC 11669
+(80.11%)","LOPEN 9172
+(81.77%)",,,,,,"LOBC 9957
+(81.20%)",,"EWS 6268
+(84.11%)",,,
+211419110,Civil Engineering,"Deogiri Institute of Engineering and Management Studies, Aurangabad (Un-Aided)","GOPEN 11345
+(80.32%)","GSC 13275
+(79.11%)",,"GNTA 21883
+(74.99%)",,,"GNTD 27570
+(72.11%)","GOBC 15755
+(77.68%)","LOPEN 8890
+(81.97%)","LSC 10037
+(81.16%)",,,,,"LOBC 17055
+(77.01%)","DEF-O 26599
+(72.58%)","EWS 7886
+(82.72%)",,,
+211424210,Computer Science and Engineering,"Deogiri Institute of Engineering and Management Studies, Aurangabad (Un-Aided)","GOPEN 4063
+(86.24%)","GSC 8948
+(81.94%)",,"GNTA 16931
+(77.06%)",,,,"GOBC 9023
+(81.89%)","LOPEN 2318
+(88.59%)","LSC 11745
+(80.06%)",,,,,"LOBC 6486
+(83.89%)",,"EWS 4878
+(85.38%)",,"PWD-O 6240
+(84.12%)",
+211437210,Electronics and Telecommunication Engg,"Deogiri Institute of Engineering and Management Studies, Aurangabad (Un-Aided)","GOPEN 12992
+(79.28%)","GSC 20045
+(75.59%)",,"GNTA 20037
+(75.59%)",,"GNTC 26965
+(72.40%)",,"GOBC 15840
+(77.65%)","LOPEN 11824
+(80.00%)","LSC 28641
+(71.59%)",,,,,"LOBC 13544
+(78.94%)",,"EWS 12379
+(79.65%)",,,
+211461210,Mechanical Engineering,"Deogiri Institute of Engineering and Management Studies, Aurangabad (Un-Aided)","GOPEN 16545
+(77.28%)","GSC 30016
+(70.92%)",,"GNTA 19878
+(75.65%)",,,"GNTD 33293
+(69.18%)","GOBC 25445
+(73.13%)","LOPEN 35446
+(67.82%)","LSC 36029
+(67.41%)",,,,LNTC ,LOBC ,,"EWS 11430
+(80.26%)",,,
+211491110,Computer Science and Engineering(Artificial Intelligence and Machine Learning),"Deogiri Institute of Engineering and Management Studies, Aurangabad (Un-Aided)","GOPEN 8490
+(82.28%)",,,,"GNTB 13402
+(79.03%)",,,,"LOPEN 7131
+(83.31%)",,,,,,"LOBC 10133
+(81.09%)",,"EWS 5821
+(84.47%)",,,
+211619110,Civil Engineering,"Matoshri Pratishan's Group of Institutions (Integrated Campus), Kupsarwadi , Nanded (Un-Aided)","GOPEN 42825
+(54.98%)",,,,,,,,"LOPEN 34547
+(68.42%)",,,,,,,,"EWS 36234
+(67.26%)",,,
+211624210,Computer Science and Engineering,"Matoshri Pratishan's Group of Institutions (Integrated Campus), Kupsarwadi , Nanded (Un-Aided)","GOPEN 16653
+(77.20%)","GSC 29072
+(71.37%)",,"GNTA 36740
+(66.86%)","GNTB 37293
+(66.39%)",,,"GOBC 24829
+(73.43%)","LOPEN 14284
+(78.51%)","LSC 30351
+(70.74%)",,,,"LNTC 24447
+(73.60%)","LOBC 21472
+(75.00%)",,"EWS 12044
+(79.89%)",,,
+211629310,Electrical Engineering,"Matoshri Pratishan's Group of Institutions (Integrated Campus), Kupsarwadi , Nanded (Un-Aided)","GOPEN 34035
+(68.73%)","GSC 41767
+(60.06%)",,,,,"GNTD 35775
+(67.59%)","GOBC 40103
+(63.28%)","LOPEN 40802
+(62.13%)",,,,,,,,"EWS 41095
+(61.50%)",,,
+211629710,Electrical and Electronics Engineering,"Matoshri Pratishan's Group of Institutions (Integrated Campus), Kupsarwadi , Nanded (Un-Aided)","GOPEN 35051
+(68.11%)",,,,,,,,"LOPEN 40268
+(63.03%)",,,,,,,,"EWS 36440
+(67.11%)",,,
+211661210,Mechanical Engineering,"Matoshri Pratishan's Group of Institutions (Integrated Campus), Kupsarwadi , Nanded (Un-Aided)","GOPEN 42139
+(58.88%)",,,,,,,,,,,,,,,,"EWS 34801
+(68.26%)",,,
+211691110,Computer Science and Engineering(Artificial Intelligence and Machine Learning),"Matoshri Pratishan's Group of Institutions (Integrated Campus), Kupsarwadi , Nanded (Un-Aided)","GOPEN 25699
+(73.00%)","GSC 40794
+(62.17%)",,,,,,"GOBC 32799
+(69.47%)","LOPEN 20747
+(75.31%)",,,,,,"LOBC 27852
+(72.00%)",,"EWS 17381
+(76.86%)",,,
+212719110,Civil Engineering,"Mahatma Gandhi Missions College of Engineering, Hingoli Rd, Nanded. (Un-Aided)","GOPEN 26286
+(72.74%)","GSC 34790
+(68.26%)",,"GNTA 34676
+(68.34%)",,"GNTC 31253
+(70.32%)",,"GOBC 36955
+(66.68%)","LOPEN 19573
+(75.79%)","LSC 26907
+(72.42%)","LST 32637
+(69.58%)","LNTA 31377
+(70.26%)",LNTB ,"LNTC 27028
+(72.37%)","LOBC 33151
+(69.26%)",,"EWS 5699
+(84.58%)",,"PWD-O 15478
+(77.84%)",
+212724210,Computer Science and Engineering,"Mahatma Gandhi Missions College of Engineering, Hingoli Rd, Nanded. (Un-Aided)","GOPEN 6523
+(83.88%)","GSC 10682
+(80.74%)",,,,"GNTC 10537
+(80.82%)",,"GOBC 7757
+(82.82%)","LOPEN 4810
+(85.44%)","LSC 9952
+(81.20%)",,,,,"LOBC 7291
+(83.18%)",,"EWS 6467
+(83.91%)",,,
+212724610,Information Technology,"Mahatma Gandhi Missions College of Engineering, Hingoli Rd, Nanded. (Un-Aided)","GOPEN 9038
+(81.88%)","GSC 15325
+(77.94%)",,,,,,"GOBC 9903
+(81.26%)","LOPEN 7433
+(83.06%)","LSC 15070
+(78.06%)",,,,,"LOBC 12435
+(79.60%)",,"EWS 8838
+(82.00%)",,,
+212737210,Electronics and Telecommunication Engg,"Mahatma Gandhi Missions College of Engineering, Hingoli Rd, Nanded. (Un-Aided)","GOPEN 14788
+(78.24%)","GSC 21723
+(75.00%)",,,,,,"GOBC 19288
+(75.94%)","LOPEN 13317
+(79.09%)",,,,"LNTB 21479
+(75.00%)",,"LOBC 32588
+(69.60%)",,"EWS 13162
+(79.18%)",,,
+212761210,Mechanical Engineering,"Mahatma Gandhi Missions College of Engineering, Hingoli Rd, Nanded. (Un-Aided)","GOPEN 34045
+(68.72%)",,,,,,,,"LOPEN 9839
+(81.29%)",,,,,,,,"EWS 14738
+(78.26%)",,,
+212919110,Civil Engineering,"M.S. Bidve Engineering College, Latur (Un-Aided)","GOPEN 11608
+(80.16%)","GSC 34552
+(68.42%)",,"GNTA 26397
+(72.68%)","GNTB 27512
+(72.16%)","GNTC 30275
+(70.79%)",,"GOBC 27483
+(72.17%)","LOPEN 5703
+(84.58%)","LSC 17862
+(76.63%)",,,,,"LOBC 11522
+(80.21%)",,"EWS 4737
+(85.53%)",,,
+212924210,Computer Science and Engineering,"M.S. Bidve Engineering College, Latur (Un-Aided)","GOPEN 3954
+(86.34%)",,,,"GNTB 3965
+(86.34%)",,,"GOBC 5256
+(85.00%)","LOPEN 2103
+(88.94%)",,,,,,,,"EWS 1469
+(90.16%)",,,
+212924610,Information Technology,"M.S. Bidve Engineering College, Latur (Un-Aided)","GOPEN 6425
+(83.94%)",,,,,"GNTC 11570
+(80.17%)",,"GOBC 7329
+(83.14%)",,,,,"LNTB 13829
+(78.78%)",,,,"EWS 5250
+(85.00%)",,,
+212929810,Electrical Engg [Electrical and Power],"M.S. Bidve Engineering College, Latur (Un-Aided)","GOPEN 26871
+(72.44%)","GSC 34778
+(68.28%)",,"GNTA 31234
+(70.33%)","GNTB 35278
+(67.94%)","GNTC 42699
+(55.88%)","GNTD 29261
+(71.28%)","GOBC 40019
+(63.39%)","LOPEN 13732
+(78.83%)","LSC 29121
+(71.33%)",,,,,"LOBC 27316
+(72.24%)",,"EWS 8046
+(82.61%)",,"PWD-O 30090
+(70.88%)",
+212937610,Electronics Engineering,"M.S. Bidve Engineering College, Latur (Un-Aided)","GOPEN 18018
+(76.53%)","GSC 37526
+(66.18%)",,,,"GNTC 19767
+(75.71%)",,"GOBC 42554
+(56.88%)","LOPEN 14990
+(78.12%)",,,,,,"LOBC 18362
+(76.35%)",,"EWS 13061
+(79.24%)",,,
+212961210,Mechanical Engineering,"M.S. Bidve Engineering College, Latur (Un-Aided)","GOPEN 37316
+(66.36%)",,,,,,,,"LOPEN 37522
+(66.19%)",,,,,,,,"EWS 18087
+(76.51%)",,,
+213019110,Civil Engineering,"Terna Public Charitable Trust's College of Engineering, Osmanabad (Un-Aided)","GOPEN 42791
+(55.27%)",,,,,,,,"LOPEN 26903
+(72.42%)","LSC 42024
+(59.27%)",,,,"LNTC 38397
+(65.37%)","LOBC 41374
+(60.90%)","DEF-O 26694
+(72.53%)","EWS 19205
+(75.95%)",,,
+213024210,Computer Science and Engineering,"Terna Public Charitable Trust's College of Engineering, Osmanabad (Un-Aided)","GOPEN 9544
+(81.49%)","GSC 14378
+(78.46%)",,,,,"GNTD 28816
+(71.50%)","GOBC 10963
+(80.53%)","LOPEN 723
+(92.00%)","LSC 31095
+(70.40%)",,,,,"LOBC 6989
+(83.44%)",,"EWS 8072
+(82.58%)",,,
+213037210,Electronics and Telecommunication Engg,"Terna Public Charitable Trust's College of Engineering, Osmanabad (Un-Aided)","GOPEN 34004
+(68.74%)","GSC 40898
+(61.94%)",,,,"GNTC 37066
+(66.59%)",,"GOBC 41847
+(60.00%)","LOPEN 20265
+(75.49%)",,,,,,"LOBC 39227
+(64.41%)",,"EWS 15629
+(77.76%)",,,
+213061210,Mechanical Engineering,"Terna Public Charitable Trust's College of Engineering, Osmanabad (Un-Aided)","GOPEN 42250
+(58.41%)",,,,,,,,"LOPEN 12552
+(79.54%)",,,,,,,,"EWS 24916
+(73.38%)",,,
+213099510,Artificial Intelligence and Data Science,"Terna Public Charitable Trust's College of Engineering, Osmanabad (Un-Aided)","GOPEN 14065
+(78.63%)","GSC 29208
+(71.31%)",,,,,,"GOBC 31208
+(70.34%)","LOPEN 13875
+(78.74%)",,,,,,"LOBC 20708
+(75.31%)",,"EWS 12770
+(79.41%)",,,
+213119110,Civil Engineering,"Shree Tuljabhavani College of Engineering, Tuljapur (Un-Aided)","GOPEN 39005
+(64.63%)",,,,,,,,"LOPEN 28913
+(71.44%)",,,"LNTA 33331
+(69.16%)",,,,,"EWS 19807
+(75.68%)",,,
+213124210,Computer Science and Engineering,"Shree Tuljabhavani College of Engineering, Tuljapur (Un-Aided)","GOPEN 5468
+(84.80%)","GSC 19123
+(76.00%)",,,,,,"GOBC 10229
+(81.03%)","LOPEN 4703
+(85.56%)",,,,,LNTC ,,,"EWS 6556
+(83.83%)",,,
+213137210,Electronics and Telecommunication Engg,"Shree Tuljabhavani College of Engineering, Tuljapur (Un-Aided)","GOPEN 31339
+(70.29%)",,,,,,,"GOBC 33431
+(69.11%)","LOPEN 24744
+(73.47%)",,,,,,"LOBC 36858
+(66.76%)",,"EWS 24337
+(73.65%)",,,
+213161210,Mechanical Engineering,"Shree Tuljabhavani College of Engineering, Tuljapur (Un-Aided)",,,,,,,,,,,,,,,,,"EWS 29578
+(71.13%)",,,
+213319110,Civil Engineering,"Mahatma Basaweshwar Education Society's College of Engineering, Ambejogai (Un-Aided)","GOPEN 40682
+(62.37%)",,,,,,,,"LOPEN 30081
+(70.89%)",,,,,,,,"EWS 26060
+(72.84%)",,,
+213324210,Computer Science and Engineering,"Mahatma Basaweshwar Education Society's College of Engineering, Ambejogai (Un-Aided)","GOPEN 13501
+(78.97%)","GSC 19486
+(75.83%)",,,,,,"GOBC 23040
+(74.23%)","LOPEN 10145
+(81.09%)",,,,,,"LOBC 13221
+(79.14%)",,"EWS 12302
+(79.71%)",,,
+213329310,Electrical Engineering,"Mahatma Basaweshwar Education Society's College of Engineering, Ambejogai (Un-Aided)","GOPEN 35338
+(67.89%)","GSC 42157
+(58.83%)",,,,,"GNTD 39458
+(64.13%)","GOBC 38373
+(65.39%)","LOPEN 40789
+(62.17%)",,,,,,,,"EWS 23160
+(74.17%)",,,
+213361210,Mechanical Engineering,"Mahatma Basaweshwar Education Society's College of Engineering, Ambejogai (Un-Aided)","GOPEN 40205
+(63.13%)",,,,,,,,,,,,,,,,,,,
+213384410,Electronics and Computer Engineering,"Mahatma Basaweshwar Education Society's College of Engineering, Ambejogai (Un-Aided)","GOPEN 34027
+(68.74%)",,,,,,,,"LOPEN 30026
+(70.91%)",,,,,,,,"EWS 26735
+(72.51%)",,,
+213419110,Civil Engineering,"Peoples Education Society's College of Engineering, Aurangabad (Un-Aided)","GOPEN 42306
+(58.18%)","GSC 43021
+(52.11%)",,,,,,,"LOPEN 23258
+(74.12%)",,,,,,,,"EWS 40001
+(63.42%)",,"PWD-O 40391
+(62.80%)",
+213424210,Computer Science and Engineering,"Peoples Education Society's College of Engineering, Aurangabad (Un-Aided)","GOPEN 11291
+(80.34%)","GSC 15230
+(78.00%)",,"GNTA 15822
+(77.66%)",,,"GNTD 14080
+(78.63%)","GOBC 13234
+(79.14%)","LOPEN 9808
+(81.31%)",,,,,,"LOBC 14916
+(78.17%)",,"EWS 10478
+(80.87%)",,,
+213429310,Electrical Engineering,"Peoples Education Society's College of Engineering, Aurangabad (Un-Aided)","GOPEN 19423
+(75.88%)","GSC 30292
+(70.78%)",,"GNTA 30072
+(70.89%)",,"GNTC 26632
+(72.56%)",,"GOBC 33030
+(69.33%)","LOPEN 20178
+(75.53%)","LSC 26553
+(72.61%)",,"LNTA 30094
+(70.88%)",,"LNTC 32366
+(69.72%)","LOBC 32718
+(69.53%)",,"EWS 7745
+(82.83%)",,,
+213461510,Mechanical & Automation Engineering,"Peoples Education Society's College of Engineering, Aurangabad (Un-Aided)","GOPEN 42756
+(55.52%)",,,,,,,,"LOPEN 40337
+(62.88%)",,,,,,,,"EWS 39843
+(63.61%)",,,
+213484410,Electronics and Computer Engineering,"Peoples Education Society's College of Engineering, Aurangabad (Un-Aided)","GOPEN 21904
+(74.97%)",,,,"GNTB 28183
+(71.82%)",,,"GOBC 35421
+(67.83%)","LOPEN 21553
+(75.00%)",,,,,,,,"EWS 19526
+(75.82%)",,,
+213491210,Computer Science and Engineering(Data Science),"Peoples Education Society's College of Engineering, Aurangabad (Un-Aided)","GOPEN 15083
+(78.06%)","GSC 25330
+(73.20%)",,,,"GNTC 32272
+(69.77%)",,"GOBC 23316
+(74.11%)","LOPEN 14932
+(78.17%)",,,"LNTA 30151
+(70.86%)",,,"LOBC 26029
+(72.86%)",,"EWS 13312
+(79.09%)",,,
+213519110,Civil Engineering,"Hi-Tech Institute of Technology, Aurangabad (Un-Aided)","GOPEN 35784
+(67.58%)",,,"GNTA 41999
+(59.34%)",,,,"GOBC 41750
+(60.06%)","LOPEN 27783
+(72.00%)",,,,,,,,"EWS 40046
+(63.37%)",,,
+213524210,Computer Science and Engineering,"Hi-Tech Institute of Technology, Aurangabad (Un-Aided)","GOPEN 18091
+(76.51%)","GSC 23388
+(74.06%)",,"GNTA 23398
+(74.06%)","GNTB 22318
+(74.97%)","GNTC 26498
+(72.63%)",,"GOBC 22077
+(74.97%)","LOPEN 15829
+(77.66%)","LSC 25661
+(73.03%)",,,,,"LOBC 23916
+(73.83%)",,"EWS 12286
+(79.71%)",,,
+213561210,Mechanical Engineering,"Hi-Tech Institute of Technology, Aurangabad (Un-Aided)","GOPEN 20652
+(75.33%)","GSC 39495
+(64.10%)",,"GNTA 38017
+(65.74%)","GNTB 38470
+(65.28%)","GNTC 33773
+(68.88%)",,"GOBC 39099
+(64.53%)","LOPEN 42297
+(58.24%)",,,,,,,,"EWS 29318
+(71.26%)",LNTD ,,
+213591110,Computer Science and Engineering(Artificial Intelligence and Machine Learning),"Hi-Tech Institute of Technology, Aurangabad (Un-Aided)","GOPEN 19245
+(75.94%)","GSC 23940
+(73.83%)",,"GNTA 24872
+(73.41%)",,,,"GOBC 20350
+(75.47%)","LOPEN 19865
+(75.66%)",,,,,,"LOBC 28943
+(71.43%)",,"EWS 18638
+(76.23%)",,,
+213619110,Civil Engineering,"Aditya Engineering College , Beed (Un-Aided)","GOPEN 27883
+(71.95%)","GSC 39171
+(64.47%)",,"GNTA 34508
+(68.46%)",,,"GNTD 37785
+(65.95%)","GOBC 38355
+(65.42%)","LOPEN 30716
+(70.56%)",LSC ,,,,,,,"EWS 30442
+(70.71%)",,,
+213624210,Computer Science and Engineering,"Aditya Engineering College , Beed (Un-Aided)","GOPEN 24449
+(73.60%)","GSC 36152
+(67.31%)",,,"GNTB 40460
+(62.72%)","GNTC 35130
+(68.05%)","GNTD 35583
+(67.71%)","GOBC 32469
+(69.66%)","LOPEN 18385
+(76.34%)","LSC 32849
+(69.44%)",,"LNTA 42907
+(54.17%)",,,"LOBC 31444
+(70.23%)",,"EWS 24670
+(73.49%)",,,
+213624610,Information Technology,"Aditya Engineering College , Beed (Un-Aided)","GOPEN 29228
+(71.31%)","GSC 39693
+(63.82%)",,"GNTA 38254
+(65.53%)",,"GNTC 35917
+(67.49%)","GNTD 34091
+(68.69%)","GOBC 42420
+(57.63%)","LOPEN 27827
+(72.00%)","LSC 39124
+(64.51%)",,,,,"LOBC 32875
+(69.43%)",,"EWS 27611
+(72.11%)",,,
+213629310,Electrical Engineering,"Aditya Engineering College , Beed (Un-Aided)","GOPEN 29626
+(71.11%)","GSC 39195
+(64.44%)","GST 40173
+(63.18%)","GNTA 34940
+(68.17%)",,"GNTC 33497
+(69.06%)","GNTD 35800
+(67.56%)","GOBC 38641
+(65.09%)","LOPEN 37714
+(66.00%)",LSC ,,,,"LNTC 37773
+(66.00%)",,,"EWS 26877
+(72.44%)","LNTD 40606
+(62.47%)",,
+213637210,Electronics and Telecommunication Engg,"Aditya Engineering College , Beed (Un-Aided)","GOPEN 39605
+(63.94%)","GSC 42257
+(58.40%)",,,,,,,"LOPEN 38946
+(64.71%)",,,,,,,,"EWS 30662
+(70.59%)",,,
+213661210,Mechanical Engineering,"Aditya Engineering College , Beed (Un-Aided)","GOPEN 36646
+(66.92%)",,,,"GNTB 42424
+(57.62%)",,"GNTD 37881
+(65.88%)",,"LOPEN 41108
+(61.49%)",,,,,,,,"EWS 11044
+(80.50%)",,,
+213691210,Computer Science and Engineering(Data Science),"Aditya Engineering College , Beed (Un-Aided)","GOPEN 41691
+(60.22%)",,,,,"GNTC 42978
+(53.06%)",,,"LOPEN 38490
+(65.26%)",,,,,,,,"EWS 35302
+(67.94%)",,,
+213692110,Artificial Intelligence and Machine Learning,"Aditya Engineering College , Beed (Un-Aided)","GOPEN 42563
+(56.82%)",,,,,,,,,,,,,,,,"EWS 26991
+(72.40%)",,,
+213719110,Civil Engineering,"Nagnathappa Halge Engineering  College, Parli, Beed (Un-Aided)","GOPEN 24852
+(73.42%)","GSC 41851
+(60.00%)",,"GNTA 34612
+(68.39%)","GNTB 40272
+(63.03%)","GNTC 26501
+(72.63%)","GNTD 26892
+(72.44%)","GOBC 42805
+(55.15%)","LOPEN 40751
+(62.24%)",LSC ,,LNTA ,,LNTC ,,,"EWS 36878
+(66.74%)",,,
+213724210,Computer Science and Engineering,"Nagnathappa Halge Engineering  College, Parli, Beed (Un-Aided)","GOPEN 13939
+(78.71%)","GSC 37888
+(65.88%)",,,,,,"GOBC 17225
+(76.94%)","LOPEN 12319
+(79.71%)",,,,,"LNTC 21436
+(75.00%)","LOBC 24343
+(73.65%)",,"EWS 11322
+(80.33%)",,,
+213729710,Electrical and Electronics Engineering,"Nagnathappa Halge Engineering  College, Parli, Beed (Un-Aided)","GOPEN 20352
+(75.47%)","GSC 24290
+(73.67%)",,,"GNTB 37915
+(65.84%)","GNTC 27117
+(72.33%)",,"GOBC 42461
+(57.41%)","LOPEN 16729
+(77.18%)","LSC 41368
+(60.91%)",,LNTA ,,,"LOBC 36062
+(67.38%)",,"EWS 35903
+(67.50%)",,,
+213761210,Mechanical Engineering,"Nagnathappa Halge Engineering  College, Parli, Beed (Un-Aided)","GOPEN 31535
+(70.19%)","GSC 42039
+(59.22%)",,"GNTA 38806
+(64.90%)",,,"GNTD 39229
+(64.41%)","GOBC 41911
+(60.00%)","LOPEN 27884
+(71.95%)",,,,,,,,"EWS 36420
+(67.12%)",,,
+213819110,Civil Engineering,"Matsyodari Shikshan Sansatha's College of Engineering and Technology, Jalna (Un-Aided)","GOPEN 42337
+(58.03%)",,,,,,,,"LOPEN 39209
+(64.42%)",,,,,,,,"EWS 38085
+(65.68%)",,,
+213824210,Computer Science and Engineering,"Matsyodari Shikshan Sansatha's College of Engineering and Technology, Jalna (Un-Aided)","GOPEN 17216
+(76.94%)","GSC 21577
+(75.00%)",,,"GNTB 23286
+(74.11%)","GNTC 23169
+(74.17%)",,"GOBC 25662
+(73.03%)",,"LSC 13395
+(79.03%)",,,,,"LOBC 24549
+(73.54%)",,"EWS 20312
+(75.49%)",,,
+213829310,Electrical Engineering,"Matsyodari Shikshan Sansatha's College of Engineering and Technology, Jalna (Un-Aided)","GOPEN 15121
+(78.06%)","GSC 22555
+(74.44%)",,"GNTA 27121
+(72.33%)",,,,"GOBC 32565
+(69.61%)","LOPEN 13542
+(78.94%)",,,,,,LOBC ,,,,,
+213861210,Mechanical Engineering,"Matsyodari Shikshan Sansatha's College of Engineering and Technology, Jalna (Un-Aided)","GOPEN 30231
+(70.81%)","GSC 40852
+(62.05%)",,"GNTA 33156
+(69.26%)",,,"GNTD 32516
+(69.64%)","GOBC 32801
+(69.47%)","LOPEN 24361
+(73.64%)",,,LNTA ,,,,,"EWS 29574
+(71.13%)",,,
+214619110,Civil Engineering,"Adarsh Shikshan Prasarak Mandal's K. T. Patil College of Engineering and Technology, Osmanabad (Un-Aided)","GOPEN 21743
+(75.00%)","GSC 43002
+(52.56%)",,,,"GNTC 25013
+(73.35%)","GNTD 22631
+(74.40%)","GOBC 41840
+(60.00%)","LOPEN 41012
+(61.70%)",,,LNTA ,,,,,"EWS 16358
+(77.38%)",,"PWD-O 18150
+(76.47%)",
+214629710,Electrical and Electronics Engineering,"Adarsh Shikshan Prasarak Mandal's K. T. Patil College of Engineering and Technology, Osmanabad (Un-Aided)","GOPEN 23482
+(74.02%)","GSC 41460
+(60.72%)","GST 33706
+(68.94%)",,,,,"GOBC 40965
+(61.81%)","LOPEN 38993
+(64.65%)",,,,,,,,"EWS 35014
+(68.11%)",,,
+214661210,Mechanical Engineering,"Adarsh Shikshan Prasarak Mandal's K. T. Patil College of Engineering and Technology, Osmanabad (Un-Aided)","GOPEN 29276
+(71.28%)","GSC 33141
+(69.28%)",,,,"GNTC 35814
+(67.56%)",,"GOBC 31944
+(69.95%)",LOPEN ,,,,,,,,"EWS 26308
+(72.72%)",,,
+225019110,Civil Engineering,"Aurangabad College of Engineering,  Naygaon Savangi, Aurangabad (Un-Aided)","GOPEN 24864
+(73.41%)","GSC 33328
+(69.16%)",,"GNTA 28115
+(71.84%)",,,,"GOBC 40892
+(61.95%)","LOPEN 36973
+(66.67%)","LSC 42855
+(54.74%)",,LNTA ,,,,,"EWS 29634
+(71.11%)",,,
+225024210,Computer Science and Engineering,"Aurangabad College of Engineering,  Naygaon Savangi, Aurangabad (Un-Aided)","GOPEN 10475
+(80.88%)","GSC 12038
+(79.89%)",,"GNTA 20598
+(75.37%)",,,"GNTD 18652
+(76.23%)","GOBC 21922
+(74.97%)","LOPEN 7593
+(82.94%)","LSC 15378
+(77.89%)",,,,,"LOBC 21895
+(74.97%)",,"EWS 5806
+(84.50%)",,,
+225029310,Electrical Engineering,"Aurangabad College of Engineering,  Naygaon Savangi, Aurangabad (Un-Aided)","GOPEN 16736
+(77.17%)","GSC 33619
+(69.00%)","GST 34254
+(68.61%)","GNTA 26776
+(72.50%)","GNTB 27236
+(72.29%)","GNTC 24821
+(73.43%)","GNTD 27843
+(72.00%)","GOBC 37947
+(65.82%)","LOPEN 21391
+(75.00%)",LSC ,,,LNTB ,"LNTC 21494
+(75.00%)","LOBC 35420
+(67.83%)",,"EWS 13355
+(79.06%)",,"PWD-O 33486
+(69.06%)",
+225037210,Electronics and Telecommunication Engg,"Aurangabad College of Engineering,  Naygaon Savangi, Aurangabad (Un-Aided)","GOPEN 17799
+(76.65%)","GSC 27248
+(72.28%)",,"GNTA 30448
+(70.71%)",,,"GNTD 32011
+(69.91%)","GOBC 26355
+(72.69%)","LOPEN 16704
+(77.19%)","LSC 29030
+(71.38%)",,,,,"LOBC 26848
+(72.46%)",,"EWS 13066
+(79.24%)",,,
+225061210,Mechanical Engineering,"Aurangabad College of Engineering,  Naygaon Savangi, Aurangabad (Un-Aided)","GOPEN 14149
+(78.59%)","GSC 34072
+(68.71%)",,"GNTA 14381
+(78.46%)","GNTB 30204
+(70.82%)","GNTC 31386
+(70.26%)","GNTD 22139
+(74.97%)","GOBC 29247
+(71.29%)","LOPEN 35884
+(67.52%)",LSC ,,LNTA ,,,LOBC ,,"EWS 20274
+(75.49%)",,,
+225219110,Civil Engineering,"Marathwada Shikshan Prasarak Mandal's Shri Shivaji Institute of Engineering and Management Studies, Parbhani (Un-Aided)","GOPEN 39264
+(64.36%)",,"GST 41652
+(60.30%)","GNTA 39881
+(63.58%)","GNTB 40189
+(63.16%)",,,"GOBC 41976
+(59.39%)","LOPEN 24855
+(73.42%)",,,,,,,,"EWS 41562
+(60.55%)",,,
+225224210,Computer Science and Engineering,"Marathwada Shikshan Prasarak Mandal's Shri Shivaji Institute of Engineering and Management Studies, Parbhani (Un-Aided)","GOPEN 11970
+(79.94%)","GSC 17740
+(76.69%)",,,"GNTB 26511
+(72.63%)",,,"GOBC 22036
+(74.97%)","LOPEN 16277
+(77.43%)",,,,,,"LOBC 20441
+(75.43%)",,"EWS 9624
+(81.43%)",,,
+225229710,Electrical and Electronics Engineering,"Marathwada Shikshan Prasarak Mandal's Shri Shivaji Institute of Engineering and Management Studies, Parbhani (Un-Aided)","GOPEN 11148
+(80.42%)",,,,,,,,"LOPEN 6290
+(84.06%)",LSC ,,,,,,,,,,
+225261210,Mechanical Engineering,"Marathwada Shikshan Prasarak Mandal's Shri Shivaji Institute of Engineering and Management Studies, Parbhani (Un-Aided)","GOPEN 36647
+(66.92%)","GSC 40690
+(62.36%)",,"GNTA 41261
+(61.18%)",,,,,"LOPEN 40247
+(63.06%)",,,,,,,,"EWS 41996
+(59.35%)",,,
+225419110,Civil Engineering,"Vilasrao Deshmukh Foundation Group of Institutions, Latur (Un-Aided)","GOPEN 26475
+(72.63%)","GSC 35503
+(67.77%)","GST 41728
+(60.12%)","GNTA 32154
+(69.84%)",,"GNTC 39038
+(64.61%)","GNTD 29085
+(71.37%)","GOBC 37135
+(66.53%)","LOPEN 34640
+(68.37%)","LSC 42231
+(58.51%)",,,,,,,"EWS 16546
+(77.28%)",,,
+225424510,Computer Engineering,"Vilasrao Deshmukh Foundation Group of Institutions, Latur (Un-Aided)","GOPEN 7960
+(82.67%)","GSC 9900
+(81.26%)",,,,"GNTC 22508
+(74.51%)",,"GOBC 11754
+(80.06%)","LOPEN 6247
+(84.11%)","LSC 9868
+(81.26%)",,,"LNTB 26625
+(72.57%)",,"LOBC 9872
+(81.26%)",,"EWS 7499
+(83.00%)",,"PWD-O 30243
+(70.80%)",
+225429310,Electrical Engineering,"Vilasrao Deshmukh Foundation Group of Institutions, Latur (Un-Aided)","GOPEN 30529
+(70.67%)","GSC 42022
+(59.27%)",,"GNTA 39580
+(64.00%)","GNTB 36621
+(66.94%)","GNTC 39315
+(64.29%)",,"GOBC 39396
+(64.22%)","LOPEN 36521
+(67.03%)",,,,,,,,"EWS 24035
+(73.78%)",,,
+225437210,Electronics and Telecommunication Engg,"Vilasrao Deshmukh Foundation Group of Institutions, Latur (Un-Aided)","GOPEN 32992
+(69.35%)","GSC 41462
+(60.71%)",,,,,,,"LOPEN 26014
+(72.86%)","LSC 29961
+(70.94%)",,"LNTA 28616
+(71.60%)",,,,,"EWS 22993
+(74.24%)",,,
+225461210,Mechanical Engineering,"Vilasrao Deshmukh Foundation Group of Institutions, Latur (Un-Aided)","GOPEN 39784
+(63.71%)",,,,,,,,"LOPEN 40632
+(62.44%)",,,,,,,,"EWS 37424
+(66.27%)",,,
+250819110,Civil Engineering,GRAMIN TECHNICAL AND MANAGEMENT CAMPUS NANDED. (Un-Aided),"GOPEN 35352
+(67.89%)",,,,,,,,"LOPEN 40308
+(62.95%)",,,,,,,,,,,
+250824510,Computer Engineering,GRAMIN TECHNICAL AND MANAGEMENT CAMPUS NANDED. (Un-Aided),"GOPEN 18167
+(76.46%)","GSC 31761
+(70.06%)",,,,,"GNTD 19845
+(75.66%)","GOBC 30035
+(70.91%)","LOPEN 13315
+(79.09%)",,,"LNTA 30811
+(70.51%)",,,"LOBC 17982
+(76.56%)",,"EWS 13984
+(78.69%)",,,
+250829310,Electrical Engineering,GRAMIN TECHNICAL AND MANAGEMENT CAMPUS NANDED. (Un-Aided),"GOPEN 43078
+(50.50%)",,,,,,,,"LOPEN 25581
+(73.06%)","LSC 29424
+(71.21%)",,,,,"LOBC 32847
+(69.44%)",,"EWS 34910
+(68.17%)",,,
+250861210,Mechanical Engineering,GRAMIN TECHNICAL AND MANAGEMENT CAMPUS NANDED. (Un-Aided),"GOPEN 36518
+(67.03%)",,,,,,,,"LOPEN 21849
+(75.00%)",,,,,,,,,,,
+250891410,Safety and Fire Engineering,GRAMIN TECHNICAL AND MANAGEMENT CAMPUS NANDED. (Un-Aided),"GOPEN 42625
+(56.42%)",,,,,,,,,,,,,,,,,,,
+251619110,Civil Engineering,International Centre Of Excellence In Engineering  and Management (ICEEM) (Un-Aided),"GOPEN 37766
+(66.00%)",,,,,,,,"LOPEN 3339
+(87.11%)",,,,,,,,"EWS 13894
+(78.74%)",,,
+251624210,Computer Science and Engineering,International Centre Of Excellence In Engineering  and Management (ICEEM) (Un-Aided),"GOPEN 10819
+(80.63%)","GSC 22924
+(74.29%)",,,,"GNTC 33481
+(69.07%)",,"GOBC 15816
+(77.66%)",,"LSC 17614
+(76.74%)",,,,,"LOBC 14947
+(78.16%)",,"EWS 9102
+(81.83%)",,,
+251629710,Electrical and Electronics Engineering,International Centre Of Excellence In Engineering  and Management (ICEEM) (Un-Aided),"GOPEN 35028
+(68.11%)",,,,,,,"GOBC 41070
+(61.58%)","LOPEN 26271
+(72.74%)","LSC 39142
+(64.50%)",,,,,,,"EWS 26182
+(72.78%)",,,
+251661210,Mechanical Engineering,International Centre Of Excellence In Engineering  and Management (ICEEM) (Un-Aided),"GOPEN 39072
+(64.56%)",,,,,,,,,,,,,,,,"EWS 37037
+(66.62%)",,,
+252219110,Civil Engineering,"STMEI's Sandipani Technical Campus-Faculty of Engineering, Latur. (Un-Aided)","GOPEN 43104
+(47.38%)",,,,,,,,"LOPEN 34478
+(68.47%)",,,,,,,,"EWS 42753
+(55.52%)",,,
+252224510,Computer Engineering,"STMEI's Sandipani Technical Campus-Faculty of Engineering, Latur. (Un-Aided)","GOPEN 13273
+(79.11%)","GSC 16269
+(77.43%)",,,"GNTB 40510
+(62.63%)",,,"GOBC 28708
+(71.56%)","LOPEN 9610
+(81.44%)","LSC 13648
+(78.88%)",,,,"LNTC 19342
+(75.89%)","LOBC 14904
+(78.17%)",,"EWS 10076
+(81.13%)",,,
+252237210,Electronics and Telecommunication Engg,"STMEI's Sandipani Technical Campus-Faculty of Engineering, Latur. (Un-Aided)","GOPEN 40604
+(62.47%)",,,,,,,,"LOPEN 34592
+(68.40%)",,,,,,"LOBC 40605
+(62.47%)",,"EWS 17583
+(76.75%)",,,
+252261210,Mechanical Engineering,"STMEI's Sandipani Technical Campus-Faculty of Engineering, Latur. (Un-Aided)","GOPEN 39960
+(63.47%)",,,,,,,,"LOPEN 4564
+(85.69%)",,,,,,,,,,,
+253319110,Civil Engineering,"CSMSS Chh. Shahu College of Engineering, Aurangabad (Un-Aided)","GOPEN 14539
+(78.37%)","GSC 15874
+(77.63%)",,,"GNTB 39443
+(64.16%)",,"GNTD 20492
+(75.42%)","GOBC 36107
+(67.36%)","LOPEN 8576
+(82.21%)",LSC ,,,,,"LOBC 25244
+(73.23%)",,"EWS 6026
+(84.32%)",,,
+253324210,Computer Science and Engineering,"CSMSS Chh. Shahu College of Engineering, Aurangabad (Un-Aided)","GOPEN 6515
+(83.89%)","GSC 9358
+(81.65%)",,"GNTA 21523
+(75.00%)",,,"GNTD 8037
+(82.63%)","GOBC 8789
+(82.05%)","LOPEN 5425
+(84.86%)",,"LST 40212
+(63.12%)",,,,"LOBC 6697
+(83.71%)",,"EWS 4852
+(85.41%)",,,
+253329310,Electrical Engineering,"CSMSS Chh. Shahu College of Engineering, Aurangabad (Un-Aided)","GOPEN 7044
+(83.41%)","GSC 16627
+(77.22%)",,,"GNTB 9991
+(81.18%)",,,"GOBC 16180
+(77.47%)","LOPEN 8529
+(82.24%)","LSC 13280
+(79.11%)",,,,,,,"EWS 1282
+(90.53%)",,,
+253361210,Mechanical Engineering,"CSMSS Chh. Shahu College of Engineering, Aurangabad (Un-Aided)","GOPEN 23409
+(74.06%)","GSC 35253
+(67.95%)",,,,,,"GOBC 33182
+(69.24%)",LOPEN ,,,LNTA ,,,,,"EWS 25131
+(73.28%)",,,
+253384410,Electronics and Computer Engineering,"CSMSS Chh. Shahu College of Engineering, Aurangabad (Un-Aided)","GOPEN 15932
+(77.60%)","GSC 24836
+(73.43%)",,,,,"GNTD 23973
+(73.82%)","GOBC 20231
+(75.50%)",,,,,,,"LOBC 20443
+(75.43%)",,"EWS 12106
+(79.83%)",,,
+253399510,Artificial Intelligence and Data Science,"CSMSS Chh. Shahu College of Engineering, Aurangabad (Un-Aided)","GOPEN 12007
+(79.89%)","GSC 19502
+(75.83%)",,,,"GNTC 17758
+(76.67%)",,"GOBC 12563
+(79.54%)","LOPEN 3319
+(87.14%)",,,,,,"LOBC 14266
+(78.51%)",,"EWS 10751
+(80.69%)",,,
+301219110,Civil Engineering,"Veermata Jijabai Technological Institute(VJTI), Matunga, Mumbai (Government-Aided Autonomous)","GOPEN 153
+(95.16%)","GSC 1258
+(90.58%)",,"GNTA 1141
+(90.84%)",,,,"GOBC 159
+(95.10%)","LOPEN 166
+(95.00%)","LSC 510
+(92.74%)",,,,,"LOBC 445
+(93.06%)",,"EWS 305
+(93.88%)",,,
+301224510,Computer Engineering,"Veermata Jijabai Technological Institute(VJTI), Matunga, Mumbai (Government-Aided Autonomous)","GOPEN 30
+(97.00%)","GSC 251
+(94.21%)",,"GNTA 379
+(93.42%)",,,,"GOBC 40
+(96.68%)","LOPEN 17
+(97.74%)",,,,,,"LOBC 23
+(97.30%)",,"EWS 41
+(96.67%)",,,
+301224610,Information Technology,"Veermata Jijabai Technological Institute(VJTI), Matunga, Mumbai (Government-Aided Autonomous)","GOPEN 49
+(96.47%)",,,,"GNTB 690
+(92.07%)",,,"GOBC 74
+(96.06%)","LOPEN 38
+(96.70%)","LSC 362
+(93.53%)",,,,,,,"EWS 79
+(96.05%)",,,
+301229310,Electrical Engineering,"Veermata Jijabai Technological Institute(VJTI), Matunga, Mumbai (Government-Aided Autonomous)","GOPEN 42
+(96.63%)",,"GST 2208
+(88.75%)","GNTA 664
+(92.17%)",,,,"GOBC 138
+(95.30%)",,,,,,,"LOBC 357
+(93.53%)",,"EWS 631
+(92.31%)",,,
+301237210,Electronics and Telecommunication Engg,"Veermata Jijabai Technological Institute(VJTI), Matunga, Mumbai (Government-Aided Autonomous)","GOPEN 244
+(94.32%)","GSC 1052
+(91.05%)",,,,,"GNTD 2765
+(87.94%)","GOBC 245
+(94.32%)","LOPEN 587
+(92.47%)",,,"LNTA 8942
+(81.94%)",,,,,"EWS 581
+(92.50%)",,,
+301237610,Electronics Engineering,"Veermata Jijabai Technological Institute(VJTI), Matunga, Mumbai (Government-Aided Autonomous)","GOPEN 178
+(94.89%)","GSC 2267
+(88.68%)",,,"GNTB 1629
+(89.84%)",,,"GOBC 364
+(93.53%)","LOPEN 628
+(92.32%)","LSC 1208
+(90.68%)",,,,,,,"EWS 241
+(94.35%)","LNTD 2761
+(87.94%)",,
+301261210,Mechanical Engineering,"Veermata Jijabai Technological Institute(VJTI), Matunga, Mumbai (Government-Aided Autonomous)","GOPEN 266
+(94.10%)","GSC 2307
+(88.62%)",,"GNTA 1830
+(89.44%)",,,,"GOBC 479
+(92.87%)","LOPEN 772
+(91.85%)","LSC 2811
+(87.85%)",,,,,"LOBC 776
+(91.84%)",,"EWS 429
+(93.12%)",,,
+301262610,Production Engineering[Sandwich],"Veermata Jijabai Technological Institute(VJTI), Matunga, Mumbai (Government-Aided Autonomous)","GOPEN 397
+(93.30%)",,,,,,,"GOBC 922
+(91.38%)","LOPEN 14871
+(78.19%)",LSC ,,,,,"LOBC 14958
+(78.15%)",,"EWS 3768
+(86.59%)",,,
+301289610,Textile Technology,"Veermata Jijabai Technological Institute(VJTI), Matunga, Mumbai (Government-Aided Autonomous)","GOPEN 8011
+(82.63%)","GSC 22470
+(74.60%)",,,"GNTB 39000
+(64.65%)",,"GNTD 36322
+(67.19%)","GOBC 17066
+(77.00%)","LOPEN 14872
+(78.19%)","LSC 17395
+(76.86%)",,,,,"LOBC 17334
+(76.88%)",,"EWS 23359
+(74.08%)",,,
+301419110,Civil Engineering,"Sardar Patel College of Engineering, Andheri (Government-Aided Autonomous)","GOPEN 316
+(93.80%)","GSC 1573
+(89.95%)","GST 862
+(91.58%)",,,,,"GOBC 680
+(92.11%)","LOPEN 388
+(93.37%)",,,,"LNTB 2866
+(87.79%)","LNTC 7033
+(83.42%)","LOBC 533
+(92.67%)","DEF-O 11602
+(80.16%)","EWS 381
+(93.42%)",,"PWD-O 6208
+(84.16%)",
+301429310,Electrical Engineering,"Sardar Patel College of Engineering, Andheri (Government-Aided Autonomous)","GOPEN 186
+(94.83%)","GSC 813
+(91.74%)",,,,,"GNTD 3503
+(86.88%)","GOBC 278
+(94.00%)","LOPEN 598
+(92.42%)","LSC 2216
+(88.74%)",,,,,"LOBC 1769
+(89.56%)",,"EWS 1008
+(91.17%)",,,
+301461210,Mechanical Engineering,"Sardar Patel College of Engineering, Andheri (Government-Aided Autonomous)","GOPEN 549
+(92.62%)",,"GST 14743
+(78.26%)",,,,"GNTD 812
+(91.74%)","GOBC 707
+(92.05%)","LOPEN 3236
+(87.25%)","LSC 21245
+(75.06%)",,,,,,,"EWS 537
+(92.67%)",,,
+303319110,Civil Engineering,"Dr. Babasaheb Ambedkar Technological University, Lonere (University Managed)","GOPEN 13634
+(78.89%)","GSC 25411
+(73.16%)","GST 36095
+(67.37%)","GNTA 15907
+(77.60%)","GNTB 36304
+(67.21%)","GNTC 38708
+(65.00%)","GNTD 16993
+(77.05%)","GOBC 27799
+(72.00%)","LOPEN 10281
+(81.00%)","LSC 20353
+(75.47%)",,,,,"LOBC 13456
+(79.00%)","DEF-O 30175
+(70.84%)","EWS 9947
+(81.21%)",,,
+303324510,Computer Engineering,"Dr. Babasaheb Ambedkar Technological University, Lonere (University Managed)","GOPEN 1804
+(89.50%)",,,,,,"GNTD 6778
+(83.63%)","GOBC 4098
+(86.21%)",,"LSC 8213
+(82.50%)",,,,,,,"EWS 2958
+(87.66%)",,,
+303324610,Information Technology,"Dr. Babasaheb Ambedkar Technological University, Lonere (University Managed)","GOPEN 2736
+(88.00%)","GSC 7924
+(82.69%)","GST 5921
+(84.40%)",,,,,,,,,,,"LNTC 5083
+(85.18%)","LOBC 4204
+(86.10%)",,"EWS 5420
+(84.86%)",,,
+303329310,Electrical Engineering,"Dr. Babasaheb Ambedkar Technological University, Lonere (University Managed)","GOPEN 7908
+(82.70%)","GSC 21150
+(75.11%)","GST 13302
+(79.10%)",,"GNTB 12045
+(79.89%)","GNTC 9075
+(81.84%)",,"GOBC 14413
+(78.44%)","LOPEN 7803
+(82.78%)","LSC 15771
+(77.68%)",LST ,,,,"LOBC 19772
+(75.70%)",,"EWS 6357
+(84.00%)",,,
+303337210,Electronics and Telecommunication Engg,"Dr. Babasaheb Ambedkar Technological University, Lonere (University Managed)","GOPEN 9687
+(81.40%)","GSC 20806
+(75.27%)","GST 36558
+(67.00%)",,,,,"GOBC 11879
+(80.00%)","LOPEN 4372
+(85.90%)","LSC 24729
+(73.47%)",,,,,"LOBC 11711
+(80.10%)",,"EWS 9280
+(81.70%)",,,
+303337810,Electronics Engineering ( VLSI Design and Technology),"Dr. Babasaheb Ambedkar Technological University, Lonere (University Managed)","GOPEN 29619
+(71.11%)",,,,,,,,,,,,,,LOBC ,,"EWS 22793
+(74.34%)",,,
+303350710,Chemical Engineering,"Dr. Babasaheb Ambedkar Technological University, Lonere (University Managed)","GOPEN 4872
+(85.39%)","GSC 38462
+(65.28%)","GST 40053
+(63.37%)",,,,,"GOBC 8293
+(82.44%)","LOPEN 13720
+(78.84%)",,,,,,"LOBC 24635
+(73.50%)",,"EWS 4862
+(85.40%)",,,
+303352710,Petro Chemical Engineering,"Dr. Babasaheb Ambedkar Technological University, Lonere (University Managed)","GOPEN 41972
+(59.39%)",,,,,,,,"LOPEN 42462
+(57.40%)",,,,,,,,"EWS 19111
+(76.00%)",,,
+303361210,Mechanical Engineering,"Dr. Babasaheb Ambedkar Technological University, Lonere (University Managed)","GOPEN 17558
+(76.77%)","GSC 22398
+(74.97%)",,"GNTA 31931
+(69.95%)","GNTB 40944
+(61.84%)","GNTC 18343
+(76.36%)",,"GOBC 24925
+(73.38%)","LOPEN 19028
+(76.05%)",LSC ,,,,,"LOBC 35194
+(68.00%)",,"EWS 11179
+(80.41%)",,,
+303524550F,Computer Engineering,"Usha Mittal Institute of Technology SNDT  Women's University, Mumbai (University Managed (Un-Aided))",,,,,,,,,"LOPEN 4079
+(86.23%)","LSC 4389
+(85.89%)",,"LNTA 9164
+(81.77%)",,,"LOBC 5177
+(85.09%)",,"EWS 5392
+(84.88%)",,,
+303524650F,Information Technology,"Usha Mittal Institute of Technology SNDT  Women's University, Mumbai (University Managed (Un-Aided))",,,,,,,,,"LOPEN 5506
+(84.78%)","LSC 7290
+(83.19%)","LST 18065
+(76.51%)",,,,"LOBC 7962
+(82.67%)",,"EWS 6892
+(83.54%)",,,
+303525450F,Computer Science and Technology,"Usha Mittal Institute of Technology SNDT  Women's University, Mumbai (University Managed (Un-Aided))",,,,,,,,,"LOPEN 7272
+(83.20%)","LSC 16738
+(77.17%)",,,,,"LOBC 8809
+(82.00%)",,"EWS 7267
+(83.20%)",,,
+303537050F,Electronics and Communication Engineering,"Usha Mittal Institute of Technology SNDT  Women's University, Mumbai (University Managed (Un-Aided))",,,,,,,,,"LOPEN 28249
+(71.78%)",,,,,,"LOBC 38661
+(65.06%)",,"EWS 15301
+(77.94%)",,,
+303591750F,Data Science,"Usha Mittal Institute of Technology SNDT  Women's University, Mumbai (University Managed (Un-Aided))",,,,,,,,,"LOPEN 8992
+(81.89%)","LSC 14210
+(78.56%)",,,,,"LOBC 11589
+(80.17%)",,"EWS 8125
+(82.56%)",,,
+304229310,Electrical Engineering,"Government College of Engineering, Ratnagiri (Government)","GOPEN 6822
+(83.59%)","GSC 9690
+(81.39%)","GST 36959
+(66.67%)","GNTA 21641
+(75.00%)","GNTB 8246
+(82.47%)",,"GNTD 10191
+(81.06%)","GOBC 10479
+(80.87%)","LOPEN 8752
+(82.06%)","LSC 14507
+(78.39%)","LST 30533
+(70.67%)",LNTA ,,"LNTC 30635
+(70.61%)","LOBC 11405
+(80.28%)",,"EWS 5259
+(85.00%)",,"PWD-O 11135
+(80.44%)",
+304250410,Food Technology And Management,"Government College of Engineering, Ratnagiri (Government)","GOPEN 36631
+(66.94%)",,,,,,,,,,,,,,,,,,,
+304262410,Mechatronics Engineering,"Government College of Engineering, Ratnagiri (Government)","GOPEN 28331
+(71.74%)",,,"GNTA 33866
+(68.82%)",,,,"GOBC 36923
+(66.71%)","LOPEN 37582
+(66.12%)",,,,,,LOBC ,,"EWS 27689
+(72.06%)",,,
+304291810,Civil and infrastructure Engineering,"Government College of Engineering, Ratnagiri (Government)","GOPEN 16290
+(77.42%)","GSC 32964
+(69.37%)",,"GNTA 32530
+(69.63%)","GNTB 23278
+(74.11%)","GNTC 21034
+(75.16%)",,"GOBC 21559
+(75.00%)","LOPEN 14157
+(78.58%)","LSC 31260
+(70.32%)",,LNTA ,,,"LOBC 22719
+(74.37%)",,"EWS 6604
+(83.79%)",,,
+304299510,Artificial Intelligence and Data Science,"Government College of Engineering, Ratnagiri (Government)","GOPEN 4815
+(85.44%)","GSC 5400
+(84.87%)",,,,,"GNTD 10646
+(80.74%)","GOBC 5793
+(84.51%)","LOPEN 4391
+(85.89%)","LSC 10804
+(80.65%)",,,"LNTB 32368
+(69.71%)",,"LOBC 5909
+(84.40%)",,"EWS 2803
+(87.88%)",,,
+313524510,Computer Engineering,"Manjara Charitable Trust's Rajiv Gandhi Institute of Technology, Mumbai (Un-Aided)","GOPEN 3415
+(87.00%)","GSC 6927
+(83.50%)","GST 25440
+(73.14%)",,,"GNTC 5194
+(85.08%)",,"GOBC 4184
+(86.11%)","LOPEN 3692
+(86.69%)",,"LST 19106
+(76.00%)",,,,"LOBC 5610
+(84.67%)","DEF-O 21217
+(75.08%)","EWS 6752
+(83.65%)",,"PWD-O 19481
+(75.83%)",
+313524610,Information Technology,"Manjara Charitable Trust's Rajiv Gandhi Institute of Technology, Mumbai (Un-Aided)","GOPEN 3917
+(86.40%)","GSC 6950
+(83.49%)",,"GNTA 10745
+(80.69%)",,,,"GOBC 4594
+(85.66%)","LOPEN 3172
+(87.33%)",,,,,,"LOBC 6173
+(84.17%)",,"EWS 5421
+(84.86%)",,,
+313537210,Electronics and Telecommunication Engg,"Manjara Charitable Trust's Rajiv Gandhi Institute of Technology, Mumbai (Un-Aided)","GOPEN 15902
+(77.61%)","GSC 32150
+(69.84%)",,"GNTA 32958
+(69.37%)",,,"GNTD 21130
+(75.12%)","GOBC 26603
+(72.57%)","LOPEN 22092
+(74.97%)","LSC 32037
+(69.89%)",,,LNTB ,,"LOBC 31131
+(70.38%)",,"EWS 17920
+(76.58%)",,"PWD-O 34058
+(68.72%)",
+313561210,Mechanical Engineering,"Manjara Charitable Trust's Rajiv Gandhi Institute of Technology, Mumbai (Un-Aided)","GOPEN 22978
+(74.25%)","GSC 36857
+(66.77%)",,,"GNTB 40488
+(62.67%)","GNTC 27287
+(72.26%)",,"GOBC 38652
+(65.08%)","LOPEN 23512
+(74.00%)",,,,,,LOBC ,,"EWS 40880
+(62.00%)",,"PWD-O 16081
+(77.53%)",
+313599510,Artificial Intelligence and Data Science,"Manjara Charitable Trust's Rajiv Gandhi Institute of Technology, Mumbai (Un-Aided)","GOPEN 3001
+(87.59%)","GSC 5212
+(85.06%)",,,,"GNTC 8622
+(82.17%)",,"GOBC 4334
+(85.94%)","LOPEN 4000
+(86.31%)",,LST ,,,,,,"EWS 6039
+(84.31%)",,,
+313924510,Computer Engineering,"Vidyalankar Institute of Technology,Wadala, Mumbai (Un-Aided Autonomous)","GOPEN 1108
+(90.91%)","GSC 2189
+(88.80%)","GST 12154
+(79.81%)",,"GNTB 2409
+(88.46%)","GNTC 3833
+(86.50%)",,"GOBC 2178
+(88.80%)","LOPEN 754
+(91.89%)","LSC 2482
+(88.34%)",,,,,"LOBC 2163
+(88.83%)","DEF-O 5819
+(84.48%)","EWS 1520
+(90.06%)",,"PWD-O 22819
+(74.33%)",
+313924610,Information Technology,"Vidyalankar Institute of Technology,Wadala, Mumbai (Un-Aided Autonomous)","GOPEN 1708
+(89.69%)","GSC 2411
+(88.46%)","GST 20212
+(75.53%)",,,,"GNTD 3684
+(86.69%)","GOBC 2652
+(88.10%)","LOPEN 417
+(93.19%)","LSC 3836
+(86.50%)","LST 14775
+(78.25%)",,,,"LOBC 3373
+(87.06%)","DEF-O 23744
+(73.92%)","EWS 2345
+(88.56%)",,"PWD-O 34135
+(68.67%)",
+313937210,Electronics and Telecommunication Engg,"Vidyalankar Institute of Technology,Wadala, Mumbai (Un-Aided Autonomous)","GOPEN 5829
+(84.47%)","GSC 7616
+(82.94%)",,"GNTA 19657
+(75.76%)",,"GNTC 16742
+(77.17%)",,"GOBC 9206
+(81.75%)","LOPEN 7612
+(82.94%)",,,,,,"LOBC 11880
+(80.00%)","DEF-O 27830
+(72.00%)","EWS 8849
+(82.00%)",,,
+313946110,Bio Medical Engineering,"Vidyalankar Institute of Technology,Wadala, Mumbai (Un-Aided Autonomous)","GOPEN 7904
+(82.71%)",,,,,,,,"LOPEN 28125
+(71.83%)",,,,LNTB ,,,,"EWS 39524
+(64.06%)",,,
+313990010,Electronics and Computer Science,"Vidyalankar Institute of Technology,Wadala, Mumbai (Un-Aided Autonomous)","GOPEN 5088
+(85.18%)","GSC 5573
+(84.71%)",,,"GNTB 5513
+(84.77%)",,,"GOBC 9308
+(81.67%)","LOPEN 7684
+(82.88%)","LSC 9196
+(81.76%)",,,,,"LOBC 17717
+(76.69%)",,"EWS 10550
+(80.82%)",,"PWD-O 23892
+(73.84%)",
+314624510,Computer Engineering,"Jawahar Education Society's Annasaheb Chudaman Patil College of Engineering,Kharghar, Navi Mumbai (Un-Aided)","GOPEN 7403
+(83.09%)","GSC 8455
+(82.31%)",,"GNTA 14922
+(78.17%)",,,,,"LOPEN 7713
+(82.86%)",,,,,,"LOBC 9083
+(81.83%)",,"EWS 8022
+(82.63%)",,,
+314624610,Information Technology,"Jawahar Education Society's Annasaheb Chudaman Patil College of Engineering,Kharghar, Navi Mumbai (Un-Aided)","GOPEN 7635
+(82.91%)","GSC 7977
+(82.67%)",,,,,,"GOBC 10330
+(80.97%)","LOPEN 6928
+(83.50%)","LSC 13862
+(78.75%)",,,,,"LOBC 8732
+(82.08%)",,"EWS 7624
+(82.92%)",,,
+314629310,Electrical Engineering,"Jawahar Education Society's Annasaheb Chudaman Patil College of Engineering,Kharghar, Navi Mumbai (Un-Aided)","GOPEN 15334
+(77.94%)","GSC 26390
+(72.68%)","GST 35039
+(68.11%)",,"GNTB 39550
+(64.00%)","GNTC 37557
+(66.16%)","GNTD 15367
+(77.90%)","GOBC 31256
+(70.32%)","LOPEN 31819
+(70.00%)","LSC 36359
+(67.17%)",,,,,"LOBC 40417
+(62.78%)",,"EWS 37733
+(66.00%)",,,
+314637210,Electronics and Telecommunication Engg,"Jawahar Education Society's Annasaheb Chudaman Patil College of Engineering,Kharghar, Navi Mumbai (Un-Aided)","GOPEN 17243
+(76.92%)","GSC 18656
+(76.23%)",,,,,"GNTD 39867
+(63.59%)","GOBC 27015
+(72.38%)","LOPEN 23861
+(73.88%)","LSC 42638
+(56.34%)",,,,,"LOBC 34188
+(68.63%)",,"EWS 33108
+(69.29%)",,,
+314661210,Mechanical Engineering,"Jawahar Education Society's Annasaheb Chudaman Patil College of Engineering,Kharghar, Navi Mumbai (Un-Aided)","GOPEN 39767
+(63.74%)",,,,,,,"GOBC 42480
+(57.28%)",LOPEN ,,,,,,,,"EWS 19751
+(75.71%)",,,
+314692010,Computer Science and Engineering (Internet of Things and Cyber Security Including Block Chain Technology),"Jawahar Education Society's Annasaheb Chudaman Patil College of Engineering,Kharghar, Navi Mumbai (Un-Aided)","GOPEN 12121
+(79.83%)","GSC 16746
+(77.17%)",,"GNTA 14477
+(78.40%)",,,,"GOBC 13992
+(78.69%)","LOPEN 9612
+(81.44%)",,,,,,"LOBC 10725
+(80.70%)",,"EWS 12732
+(79.43%)",,,
